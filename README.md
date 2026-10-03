@@ -56,6 +56,7 @@ Shortage / Overstock Detection
 Geography-Aware Inventory Reallocation
         ↓
 Business Impact Measurement
+```
 
 ## 1. Demand Forecasting
 Feature Engineering
