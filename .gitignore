@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw datasets
+data/raw/*
+!data/raw/.gitkeep
+
+# OS
+.DS_Store
+
+# Environment
+.env

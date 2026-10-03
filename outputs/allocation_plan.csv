@@ -1,0 +1,964 @@
+family,from_store,to_store,from_city,to_city,from_state,to_state,units,route_priority
+AUTOMOTIVE,44,47,Quito,Quito,Pichincha,Pichincha,46,SAME_CITY
+AUTOMOTIVE,45,46,Quito,Quito,Pichincha,Pichincha,38,SAME_CITY
+AUTOMOTIVE,9,39,Quito,Cuenca,Pichincha,Azuay,27,OTHER_STATE
+AUTOMOTIVE,28,19,Guayaquil,Guaranda,Guayas,Bolivar,23,OTHER_STATE
+AUTOMOTIVE,17,19,Quito,Guaranda,Pichincha,Bolivar,3,OTHER_STATE
+AUTOMOTIVE,33,52,Quevedo,Manta,Los Rios,Manabi,21,OTHER_STATE
+AUTOMOTIVE,17,52,Quito,Manta,Pichincha,Manabi,1,OTHER_STATE
+AUTOMOTIVE,13,12,Latacunga,Latacunga,Cotopaxi,Cotopaxi,12,SAME_CITY
+AUTOMOTIVE,17,12,Quito,Latacunga,Pichincha,Cotopaxi,10,OTHER_STATE
+AUTOMOTIVE,32,26,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+AUTOMOTIVE,35,26,Playas,Guayaquil,Guayas,Guayas,7,SAME_STATE
+AUTOMOTIVE,11,26,Cayambe,Guayaquil,Pichincha,Guayas,10,OTHER_STATE
+AUTOMOTIVE,4,51,Quito,Guayaquil,Pichincha,Guayas,15,OTHER_STATE
+AUTOMOTIVE,9,51,Quito,Guayaquil,Pichincha,Guayas,2,OTHER_STATE
+AUTOMOTIVE,49,21,Quito,Santo Domingo,Pichincha,Santo Domingo de los Tsachilas,11,OTHER_STATE
+AUTOMOTIVE,9,21,Quito,Santo Domingo,Pichincha,Santo Domingo de los Tsachilas,6,OTHER_STATE
+AUTOMOTIVE,45,38,Quito,Loja,Pichincha,Loja,10,OTHER_STATE
+AUTOMOTIVE,1,38,Quito,Loja,Pichincha,Loja,5,OTHER_STATE
+AUTOMOTIVE,17,20,Quito,Quito,Pichincha,Pichincha,8,SAME_CITY
+AUTOMOTIVE,44,20,Quito,Quito,Pichincha,Pichincha,7,SAME_CITY
+AUTOMOTIVE,31,53,Babahoyo,Manta,Los Rios,Manabi,7,OTHER_STATE
+AUTOMOTIVE,11,53,Cayambe,Manta,Pichincha,Manabi,6,OTHER_STATE
+AUTOMOTIVE,14,29,Riobamba,Guayaquil,Chimborazo,Guayas,6,OTHER_STATE
+AUTOMOTIVE,43,29,Esmeraldas,Guayaquil,Esmeraldas,Guayas,6,OTHER_STATE
+AUTOMOTIVE,1,36,Quito,Libertad,Pichincha,Guayas,4,OTHER_STATE
+AUTOMOTIVE,9,36,Quito,Libertad,Pichincha,Guayas,4,OTHER_STATE
+AUTOMOTIVE,10,36,Quito,Libertad,Pichincha,Guayas,3,OTHER_STATE
+AUTOMOTIVE,44,7,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+AUTOMOTIVE,15,7,Ibarra,Quito,Imbabura,Pichincha,2,OTHER_STATE
+BABY CARE,53,52,Manta,Manta,Manabi,Manabi,2,SAME_CITY
+BABY CARE,54,52,El Carmen,Manta,Manabi,Manabi,2,SAME_STATE
+BABY CARE,50,52,Ambato,Manta,Tungurahua,Manabi,1,OTHER_STATE
+BABY CARE,45,47,Quito,Quito,Pichincha,Pichincha,4,SAME_CITY
+BABY CARE,46,51,Quito,Guayaquil,Pichincha,Guayas,3,OTHER_STATE
+BABY CARE,49,25,Quito,Salinas,Pichincha,Santa Elena,2,OTHER_STATE
+BABY CARE,49,48,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+BABY CARE,50,43,Ambato,Esmeraldas,Tungurahua,Esmeraldas,2,OTHER_STATE
+BABY CARE,42,36,Cuenca,Libertad,Azuay,Guayas,2,OTHER_STATE
+BABY CARE,39,35,Cuenca,Playas,Azuay,Guayas,2,OTHER_STATE
+BABY CARE,50,23,Ambato,Ambato,Tungurahua,Tungurahua,2,SAME_CITY
+BABY CARE,4,9,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+BABY CARE,21,16,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,1,SAME_CITY
+BABY CARE,46,17,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BABY CARE,42,19,Cuenca,Guaranda,Azuay,Bolivar,1,OTHER_STATE
+BABY CARE,8,2,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BABY CARE,39,15,Cuenca,Ibarra,Azuay,Imbabura,1,OTHER_STATE
+BABY CARE,42,28,Cuenca,Guayaquil,Azuay,Guayas,1,OTHER_STATE
+BABY CARE,44,29,Quito,Guayaquil,Pichincha,Guayas,1,OTHER_STATE
+BABY CARE,31,33,Babahoyo,Quevedo,Los Rios,Los Rios,1,SAME_STATE
+BABY CARE,45,34,Quito,Guayaquil,Pichincha,Guayas,1,OTHER_STATE
+BABY CARE,46,13,Quito,Latacunga,Pichincha,Cotopaxi,1,OTHER_STATE
+BABY CARE,49,11,Quito,Cayambe,Pichincha,Pichincha,1,SAME_STATE
+BABY CARE,4,7,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BABY CARE,50,5,Ambato,Santo Domingo,Tungurahua,Santo Domingo de los Tsachilas,1,OTHER_STATE
+BABY CARE,8,3,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BABY CARE,44,1,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BEAUTY,6,50,Quito,Ambato,Pichincha,Tungurahua,11,OTHER_STATE
+BEAUTY,38,50,Loja,Ambato,Loja,Tungurahua,7,OTHER_STATE
+BEAUTY,7,50,Quito,Ambato,Pichincha,Tungurahua,6,OTHER_STATE
+BEAUTY,43,50,Esmeraldas,Ambato,Esmeraldas,Tungurahua,6,OTHER_STATE
+BEAUTY,20,50,Quito,Ambato,Pichincha,Tungurahua,5,OTHER_STATE
+BEAUTY,4,50,Quito,Ambato,Pichincha,Tungurahua,4,OTHER_STATE
+BEAUTY,11,50,Cayambe,Ambato,Pichincha,Tungurahua,4,OTHER_STATE
+BEAUTY,39,50,Cuenca,Ambato,Azuay,Tungurahua,4,OTHER_STATE
+BEAUTY,1,3,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+BEAUTY,14,3,Riobamba,Quito,Chimborazo,Pichincha,2,OTHER_STATE
+BEAUTY,19,3,Guaranda,Quito,Bolivar,Pichincha,2,OTHER_STATE
+BEAUTY,27,3,Daule,Quito,Guayas,Pichincha,1,OTHER_STATE
+BEAUTY,53,3,Manta,Quito,Manabi,Pichincha,1,OTHER_STATE
+BEVERAGES,46,45,Quito,Quito,Pichincha,Pichincha,20771,SAME_CITY
+BEVERAGES,8,45,Quito,Quito,Pichincha,Pichincha,11385,SAME_CITY
+BEVERAGES,7,43,Quito,Esmeraldas,Pichincha,Esmeraldas,14496,OTHER_STATE
+BEVERAGES,11,43,Cayambe,Esmeraldas,Pichincha,Esmeraldas,4641,OTHER_STATE
+BEVERAGES,29,51,Guayaquil,Guayaquil,Guayas,Guayas,9092,SAME_CITY
+BEVERAGES,28,51,Guayaquil,Guayaquil,Guayas,Guayas,4909,SAME_CITY
+BEVERAGES,32,24,Guayaquil,Guayaquil,Guayas,Guayas,4045,SAME_CITY
+BEVERAGES,26,24,Guayaquil,Guayaquil,Guayas,Guayas,3109,SAME_CITY
+BEVERAGES,28,24,Guayaquil,Guayaquil,Guayas,Guayas,2254,SAME_CITY
+BEVERAGES,27,24,Daule,Guayaquil,Guayas,Guayas,3430,SAME_STATE
+BEVERAGES,20,50,Quito,Ambato,Pichincha,Tungurahua,10933,OTHER_STATE
+BEVERAGES,17,48,Quito,Quito,Pichincha,Pichincha,5596,SAME_CITY
+BEVERAGES,8,48,Quito,Quito,Pichincha,Pichincha,4800,SAME_CITY
+BEVERAGES,1,48,Quito,Quito,Pichincha,Pichincha,391,SAME_CITY
+BEVERAGES,54,21,El Carmen,Santo Domingo,Manabi,Santo Domingo de los Tsachilas,10777,OTHER_STATE
+BEVERAGES,10,9,Quito,Quito,Pichincha,Pichincha,3289,SAME_CITY
+BEVERAGES,1,9,Quito,Quito,Pichincha,Pichincha,3045,SAME_CITY
+BEVERAGES,18,9,Quito,Quito,Pichincha,Pichincha,2844,SAME_CITY
+BEVERAGES,20,9,Quito,Quito,Pichincha,Pichincha,854,SAME_CITY
+BEVERAGES,20,2,Quito,Quito,Pichincha,Pichincha,1076,SAME_CITY
+BEVERAGES,11,2,Cayambe,Quito,Pichincha,Pichincha,8234,SAME_STATE
+BEVERAGES,39,38,Cuenca,Loja,Azuay,Loja,8508,OTHER_STATE
+BEVERAGES,33,31,Quevedo,Babahoyo,Los Rios,Los Rios,3483,SAME_STATE
+BEVERAGES,53,31,Manta,Babahoyo,Manabi,Los Rios,4401,OTHER_STATE
+BEVERAGES,41,5,Machala,Santo Domingo,El Oro,Santo Domingo de los Tsachilas,6712,OTHER_STATE
+BEVERAGES,12,5,Latacunga,Santo Domingo,Cotopaxi,Santo Domingo de los Tsachilas,767,OTHER_STATE
+BEVERAGES,11,6,Cayambe,Quito,Pichincha,Pichincha,1047,SAME_STATE
+BEVERAGES,22,6,Puyo,Quito,Pastaza,Pichincha,3474,OTHER_STATE
+BEVERAGES,12,6,Latacunga,Quito,Cotopaxi,Pichincha,647,OTHER_STATE
+BEVERAGES,15,4,Ibarra,Quito,Imbabura,Pichincha,2891,OTHER_STATE
+BEVERAGES,27,4,Daule,Quito,Guayas,Pichincha,2221,OTHER_STATE
+BEVERAGES,27,34,Daule,Guayaquil,Guayas,Guayas,619,SAME_STATE
+BEVERAGES,19,34,Guaranda,Guayaquil,Bolivar,Guayas,2779,OTHER_STATE
+BEVERAGES,14,34,Riobamba,Guayaquil,Chimborazo,Guayas,991,OTHER_STATE
+BEVERAGES,12,3,Latacunga,Quito,Cotopaxi,Pichincha,2519,OTHER_STATE
+BEVERAGES,53,3,Manta,Quito,Manabi,Pichincha,1658,OTHER_STATE
+BEVERAGES,14,44,Riobamba,Quito,Chimborazo,Pichincha,1661,OTHER_STATE
+BEVERAGES,39,44,Cuenca,Quito,Azuay,Pichincha,1151,OTHER_STATE
+BEVERAGES,53,44,Manta,Quito,Manabi,Pichincha,756,OTHER_STATE
+BEVERAGES,54,25,El Carmen,Salinas,Manabi,Santa Elena,319,OTHER_STATE
+BEVERAGES,53,25,Manta,Salinas,Manabi,Santa Elena,35,OTHER_STATE
+BOOKS,54,53,El Carmen,Manta,Manabi,Manabi,5,SAME_STATE
+BOOKS,43,53,Esmeraldas,Manta,Esmeraldas,Manabi,1,OTHER_STATE
+BOOKS,47,45,Quito,Quito,Pichincha,Pichincha,4,SAME_CITY
+BOOKS,48,49,Quito,Quito,Pichincha,Pichincha,3,SAME_CITY
+BOOKS,51,24,Guayaquil,Guayaquil,Guayas,Guayas,2,SAME_CITY
+BOOKS,40,41,Machala,Machala,El Oro,El Oro,2,SAME_CITY
+BOOKS,47,1,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+BOOKS,4,11,Quito,Cayambe,Pichincha,Pichincha,1,SAME_STATE
+BOOKS,6,11,Quito,Cayambe,Pichincha,Pichincha,1,SAME_STATE
+BOOKS,8,10,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BOOKS,20,10,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BOOKS,48,9,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+BOOKS,43,9,Esmeraldas,Quito,Esmeraldas,Pichincha,1,OTHER_STATE
+BOOKS,43,25,Esmeraldas,Salinas,Esmeraldas,Santa Elena,2,OTHER_STATE
+BOOKS,51,17,Guayaquil,Quito,Guayas,Pichincha,1,OTHER_STATE
+BOOKS,5,21,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,1,SAME_CITY
+BOOKS,51,23,Guayaquil,Ambato,Guayas,Tungurahua,1,OTHER_STATE
+BOOKS,43,13,Esmeraldas,Latacunga,Esmeraldas,Cotopaxi,1,OTHER_STATE
+BOOKS,51,3,Guayaquil,Quito,Guayas,Pichincha,1,OTHER_STATE
+BOOKS,51,26,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+BOOKS,28,30,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+BOOKS,51,32,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+BOOKS,27,34,Daule,Guayaquil,Guayas,Guayas,1,SAME_STATE
+BOOKS,43,44,Esmeraldas,Quito,Esmeraldas,Pichincha,1,OTHER_STATE
+BREAD/BAKERY,48,46,Quito,Quito,Pichincha,Pichincha,3057,SAME_CITY
+BREAD/BAKERY,47,46,Quito,Quito,Pichincha,Pichincha,488,SAME_CITY
+BREAD/BAKERY,47,49,Quito,Quito,Pichincha,Pichincha,2038,SAME_CITY
+BREAD/BAKERY,1,49,Quito,Quito,Pichincha,Pichincha,1219,SAME_CITY
+BREAD/BAKERY,18,9,Quito,Quito,Pichincha,Pichincha,1313,SAME_CITY
+BREAD/BAKERY,4,9,Quito,Quito,Pichincha,Pichincha,916,SAME_CITY
+BREAD/BAKERY,17,20,Quito,Quito,Pichincha,Pichincha,388,SAME_CITY
+BREAD/BAKERY,1,20,Quito,Quito,Pichincha,Pichincha,119,SAME_CITY
+BREAD/BAKERY,4,20,Quito,Quito,Pichincha,Pichincha,24,SAME_CITY
+BREAD/BAKERY,11,20,Cayambe,Quito,Pichincha,Pichincha,638,SAME_STATE
+BREAD/BAKERY,39,20,Cuenca,Quito,Azuay,Pichincha,848,OTHER_STATE
+BREAD/BAKERY,24,36,Guayaquil,Libertad,Guayas,Guayas,1929,SAME_STATE
+BREAD/BAKERY,39,44,Cuenca,Quito,Azuay,Pichincha,1927,OTHER_STATE
+BREAD/BAKERY,37,7,Cuenca,Quito,Azuay,Pichincha,1912,OTHER_STATE
+BREAD/BAKERY,50,2,Ambato,Quito,Tungurahua,Pichincha,1438,OTHER_STATE
+BREAD/BAKERY,29,28,Guayaquil,Guayaquil,Guayas,Guayas,1274,SAME_CITY
+BREAD/BAKERY,41,53,Machala,Manta,El Oro,Manabi,1263,OTHER_STATE
+BREAD/BAKERY,43,25,Esmeraldas,Salinas,Esmeraldas,Santa Elena,1136,OTHER_STATE
+BREAD/BAKERY,50,23,Ambato,Ambato,Tungurahua,Tungurahua,244,SAME_CITY
+BREAD/BAKERY,21,23,Santo Domingo,Ambato,Santo Domingo de los Tsachilas,Tungurahua,723,OTHER_STATE
+BREAD/BAKERY,42,6,Cuenca,Quito,Azuay,Pichincha,817,OTHER_STATE
+BREAD/BAKERY,24,6,Guayaquil,Quito,Guayas,Pichincha,135,OTHER_STATE
+BREAD/BAKERY,24,3,Guayaquil,Quito,Guayas,Pichincha,664,OTHER_STATE
+BREAD/BAKERY,15,3,Ibarra,Quito,Imbabura,Pichincha,268,OTHER_STATE
+BREAD/BAKERY,32,51,Guayaquil,Guayaquil,Guayas,Guayas,253,SAME_CITY
+BREAD/BAKERY,26,51,Guayaquil,Guayaquil,Guayas,Guayas,211,SAME_CITY
+BREAD/BAKERY,29,51,Guayaquil,Guayaquil,Guayas,Guayas,62,SAME_CITY
+BREAD/BAKERY,35,51,Playas,Guayaquil,Guayas,Guayas,172,SAME_STATE
+BREAD/BAKERY,13,51,Latacunga,Guayaquil,Cotopaxi,Guayas,59,OTHER_STATE
+BREAD/BAKERY,43,14,Esmeraldas,Riobamba,Esmeraldas,Chimborazo,356,OTHER_STATE
+BREAD/BAKERY,13,14,Latacunga,Riobamba,Cotopaxi,Chimborazo,311,OTHER_STATE
+BREAD/BAKERY,41,45,Machala,Quito,El Oro,Pichincha,353,OTHER_STATE
+BREAD/BAKERY,15,45,Ibarra,Quito,Imbabura,Pichincha,303,OTHER_STATE
+BREAD/BAKERY,16,30,Santo Domingo,Guayaquil,Santo Domingo de los Tsachilas,Guayas,329,OTHER_STATE
+BREAD/BAKERY,39,30,Cuenca,Guayaquil,Azuay,Guayas,205,OTHER_STATE
+BREAD/BAKERY,33,54,Quevedo,El Carmen,Los Rios,Manabi,219,OTHER_STATE
+BREAD/BAKERY,22,54,Puyo,El Carmen,Pastaza,Manabi,100,OTHER_STATE
+BREAD/BAKERY,19,31,Guaranda,Babahoyo,Bolivar,Los Rios,196,OTHER_STATE
+BREAD/BAKERY,37,31,Cuenca,Babahoyo,Azuay,Los Rios,95,OTHER_STATE
+BREAD/BAKERY,13,12,Latacunga,Latacunga,Cotopaxi,Cotopaxi,43,SAME_CITY
+BREAD/BAKERY,21,12,Santo Domingo,Latacunga,Santo Domingo de los Tsachilas,Cotopaxi,125,OTHER_STATE
+BREAD/BAKERY,22,12,Puyo,Latacunga,Pastaza,Cotopaxi,107,OTHER_STATE
+BREAD/BAKERY,37,12,Cuenca,Latacunga,Azuay,Cotopaxi,1,OTHER_STATE
+BREAD/BAKERY,37,8,Cuenca,Quito,Azuay,Pichincha,54,OTHER_STATE
+BREAD/BAKERY,15,8,Ibarra,Quito,Imbabura,Pichincha,42,OTHER_STATE
+BREAD/BAKERY,39,8,Cuenca,Quito,Azuay,Pichincha,16,OTHER_STATE
+CELEBRATION,3,50,Quito,Ambato,Pichincha,Tungurahua,103,OTHER_STATE
+CELEBRATION,36,24,Libertad,Guayaquil,Guayas,Guayas,7,SAME_STATE
+CELEBRATION,35,24,Playas,Guayaquil,Guayas,Guayas,4,SAME_STATE
+CELEBRATION,45,24,Quito,Guayaquil,Pichincha,Guayas,66,OTHER_STATE
+CELEBRATION,8,49,Quito,Quito,Pichincha,Pichincha,49,SAME_CITY
+CELEBRATION,45,49,Quito,Quito,Pichincha,Pichincha,19,SAME_CITY
+CELEBRATION,46,7,Quito,Quito,Pichincha,Pichincha,41,SAME_CITY
+CELEBRATION,47,7,Quito,Quito,Pichincha,Pichincha,17,SAME_CITY
+CELEBRATION,45,9,Quito,Quito,Pichincha,Pichincha,27,SAME_CITY
+CELEBRATION,47,9,Quito,Quito,Pichincha,Pichincha,24,SAME_CITY
+CELEBRATION,1,9,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+CELEBRATION,5,43,Santo Domingo,Esmeraldas,Santo Domingo de los Tsachilas,Esmeraldas,48,OTHER_STATE
+CELEBRATION,12,27,Latacunga,Daule,Cotopaxi,Guayas,27,OTHER_STATE
+CELEBRATION,53,27,Manta,Daule,Manabi,Guayas,20,OTHER_STATE
+CELEBRATION,37,28,Cuenca,Guayaquil,Azuay,Guayas,19,OTHER_STATE
+CELEBRATION,1,28,Quito,Guayaquil,Pichincha,Guayas,16,OTHER_STATE
+CELEBRATION,3,17,Quito,Quito,Pichincha,Pichincha,16,SAME_CITY
+CELEBRATION,2,17,Quito,Quito,Pichincha,Pichincha,11,SAME_CITY
+CELEBRATION,4,17,Quito,Quito,Pichincha,Pichincha,7,SAME_CITY
+CELEBRATION,1,11,Quito,Cayambe,Pichincha,Pichincha,1,SAME_STATE
+CELEBRATION,4,11,Quito,Cayambe,Pichincha,Pichincha,1,SAME_STATE
+CELEBRATION,13,11,Latacunga,Cayambe,Cotopaxi,Pichincha,14,OTHER_STATE
+CELEBRATION,16,11,Santo Domingo,Cayambe,Santo Domingo de los Tsachilas,Pichincha,12,OTHER_STATE
+CELEBRATION,25,11,Salinas,Cayambe,Santa Elena,Pichincha,4,OTHER_STATE
+CELEBRATION,5,18,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,8,OTHER_STATE
+CELEBRATION,21,18,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,8,OTHER_STATE
+CELEBRATION,31,18,Babahoyo,Quito,Los Rios,Pichincha,8,OTHER_STATE
+CELEBRATION,25,18,Salinas,Quito,Santa Elena,Pichincha,3,OTHER_STATE
+CELEBRATION,25,44,Salinas,Quito,Santa Elena,Pichincha,2,OTHER_STATE
+CLEANING,46,44,Quito,Quito,Pichincha,Pichincha,3009,SAME_CITY
+CLEANING,48,44,Quito,Quito,Pichincha,Pichincha,2803,SAME_CITY
+CLEANING,10,44,Quito,Quito,Pichincha,Pichincha,2529,SAME_CITY
+CLEANING,1,44,Quito,Quito,Pichincha,Pichincha,806,SAME_CITY
+CLEANING,1,20,Quito,Quito,Pichincha,Pichincha,647,SAME_CITY
+CLEANING,11,20,Cayambe,Quito,Pichincha,Pichincha,3620,SAME_STATE
+CLEANING,21,20,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,3401,OTHER_STATE
+CLEANING,51,49,Guayaquil,Quito,Guayas,Pichincha,4236,OTHER_STATE
+CLEANING,30,49,Guayaquil,Quito,Guayas,Pichincha,2673,OTHER_STATE
+CLEANING,38,47,Loja,Quito,Loja,Pichincha,4019,OTHER_STATE
+CLEANING,52,47,Manta,Quito,Manabi,Pichincha,2598,OTHER_STATE
+CLEANING,33,31,Quevedo,Babahoyo,Los Rios,Los Rios,1124,SAME_STATE
+CLEANING,21,31,Santo Domingo,Babahoyo,Santo Domingo de los Tsachilas,Los Rios,3809,OTHER_STATE
+CLEANING,16,31,Santo Domingo,Babahoyo,Santo Domingo de los Tsachilas,Los Rios,1386,OTHER_STATE
+CLEANING,27,9,Daule,Quito,Guayas,Pichincha,3121,OTHER_STATE
+CLEANING,12,9,Latacunga,Quito,Cotopaxi,Pichincha,2105,OTHER_STATE
+CLEANING,36,8,Libertad,Quito,Guayas,Pichincha,2400,OTHER_STATE
+CLEANING,19,8,Guaranda,Quito,Bolivar,Pichincha,2063,OTHER_STATE
+CLEANING,35,8,Playas,Quito,Guayas,Pichincha,635,OTHER_STATE
+CLEANING,16,14,Santo Domingo,Riobamba,Santo Domingo de los Tsachilas,Chimborazo,1895,OTHER_STATE
+CLEANING,35,14,Playas,Riobamba,Guayas,Chimborazo,1415,OTHER_STATE
+CLEANING,30,14,Guayaquil,Riobamba,Guayas,Chimborazo,1335,OTHER_STATE
+CLEANING,52,3,Manta,Quito,Manabi,Pichincha,1348,OTHER_STATE
+CLEANING,42,3,Cuenca,Quito,Azuay,Pichincha,1067,OTHER_STATE
+CLEANING,25,3,Salinas,Quito,Santa Elena,Pichincha,842,OTHER_STATE
+CLEANING,12,3,Latacunga,Quito,Cotopaxi,Pichincha,522,OTHER_STATE
+CLEANING,30,3,Guayaquil,Quito,Guayas,Pichincha,19,OTHER_STATE
+DAIRY,49,44,Quito,Quito,Pichincha,Pichincha,8070,SAME_CITY
+DAIRY,45,44,Quito,Quito,Pichincha,Pichincha,733,SAME_CITY
+DAIRY,45,3,Quito,Quito,Pichincha,Pichincha,4332,SAME_CITY
+DAIRY,48,3,Quito,Quito,Pichincha,Pichincha,3317,SAME_CITY
+DAIRY,34,24,Guayaquil,Guayaquil,Guayas,Guayas,1831,SAME_CITY
+DAIRY,26,24,Guayaquil,Guayaquil,Guayas,Guayas,392,SAME_CITY
+DAIRY,32,24,Guayaquil,Guayaquil,Guayas,Guayas,325,SAME_CITY
+DAIRY,27,24,Daule,Guayaquil,Guayas,Guayas,2728,SAME_STATE
+DAIRY,46,8,Quito,Quito,Pichincha,Pichincha,3984,SAME_CITY
+DAIRY,6,8,Quito,Quito,Pichincha,Pichincha,706,SAME_CITY
+DAIRY,6,7,Quito,Quito,Pichincha,Pichincha,2961,SAME_CITY
+DAIRY,2,7,Quito,Quito,Pichincha,Pichincha,989,SAME_CITY
+DAIRY,2,9,Quito,Quito,Pichincha,Pichincha,1411,SAME_CITY
+DAIRY,48,9,Quito,Quito,Pichincha,Pichincha,756,SAME_CITY
+DAIRY,52,9,Manta,Quito,Manabi,Pichincha,989,OTHER_STATE
+DAIRY,52,38,Manta,Loja,Manabi,Loja,2900,OTHER_STATE
+DAIRY,31,47,Babahoyo,Quito,Los Rios,Pichincha,2504,OTHER_STATE
+DAIRY,50,20,Ambato,Quito,Tungurahua,Pichincha,2430,OTHER_STATE
+DAIRY,43,20,Esmeraldas,Quito,Esmeraldas,Pichincha,67,OTHER_STATE
+DAIRY,43,11,Esmeraldas,Cayambe,Esmeraldas,Pichincha,1794,OTHER_STATE
+DAIRY,19,11,Guaranda,Cayambe,Bolivar,Pichincha,545,OTHER_STATE
+DAIRY,13,1,Latacunga,Quito,Cotopaxi,Pichincha,1248,OTHER_STATE
+DAIRY,25,1,Salinas,Quito,Santa Elena,Pichincha,771,OTHER_STATE
+DAIRY,54,37,El Carmen,Cuenca,Manabi,Azuay,1058,OTHER_STATE
+DAIRY,35,37,Playas,Cuenca,Guayas,Azuay,801,OTHER_STATE
+DAIRY,19,37,Guaranda,Cuenca,Bolivar,Azuay,156,OTHER_STATE
+DAIRY,27,36,Daule,Libertad,Guayas,Guayas,456,SAME_STATE
+DAIRY,19,36,Guaranda,Libertad,Bolivar,Guayas,569,OTHER_STATE
+DAIRY,31,36,Babahoyo,Libertad,Los Rios,Guayas,481,OTHER_STATE
+DAIRY,25,36,Salinas,Libertad,Santa Elena,Guayas,319,OTHER_STATE
+DAIRY,52,23,Manta,Ambato,Manabi,Tungurahua,361,OTHER_STATE
+DAIRY,25,23,Salinas,Ambato,Santa Elena,Tungurahua,152,OTHER_STATE
+DELI,48,17,Quito,Quito,Pichincha,Pichincha,1479,SAME_CITY
+DELI,34,51,Guayaquil,Guayaquil,Guayas,Guayas,721,SAME_CITY
+DELI,29,51,Guayaquil,Guayaquil,Guayas,Guayas,323,SAME_CITY
+DELI,48,6,Quito,Quito,Pichincha,Pichincha,980,SAME_CITY
+DELI,11,40,Cayambe,Machala,Pichincha,El Oro,953,OTHER_STATE
+DELI,30,24,Guayaquil,Guayaquil,Guayas,Guayas,447,SAME_CITY
+DELI,29,24,Guayaquil,Guayaquil,Guayas,Guayas,307,SAME_CITY
+DELI,26,24,Guayaquil,Guayaquil,Guayas,Guayas,160,SAME_CITY
+DELI,54,53,El Carmen,Manta,Manabi,Manabi,843,SAME_STATE
+DELI,44,53,Quito,Manta,Pichincha,Manabi,65,OTHER_STATE
+DELI,44,43,Quito,Esmeraldas,Pichincha,Esmeraldas,869,OTHER_STATE
+DELI,20,52,Quito,Manta,Pichincha,Manabi,813,OTHER_STATE
+DELI,8,3,Quito,Quito,Pichincha,Pichincha,677,SAME_CITY
+DELI,11,41,Cayambe,Machala,Pichincha,El Oro,674,OTHER_STATE
+DELI,27,36,Daule,Libertad,Guayas,Guayas,663,SAME_STATE
+DELI,48,4,Quito,Quito,Pichincha,Pichincha,407,SAME_CITY
+DELI,44,4,Quito,Quito,Pichincha,Pichincha,256,SAME_CITY
+DELI,23,50,Ambato,Ambato,Tungurahua,Tungurahua,206,SAME_CITY
+DELI,33,50,Quevedo,Ambato,Los Rios,Tungurahua,303,OTHER_STATE
+DELI,2,46,Quito,Quito,Pichincha,Pichincha,384,SAME_CITY
+DELI,7,46,Quito,Quito,Pichincha,Pichincha,111,SAME_CITY
+DELI,33,31,Quevedo,Babahoyo,Los Rios,Los Rios,480,SAME_STATE
+DELI,39,22,Cuenca,Puyo,Azuay,Pastaza,422,OTHER_STATE
+DELI,20,49,Quito,Quito,Pichincha,Pichincha,203,SAME_CITY
+DELI,7,49,Quito,Quito,Pichincha,Pichincha,171,SAME_CITY
+DELI,44,49,Quito,Quito,Pichincha,Pichincha,3,SAME_CITY
+DELI,13,38,Latacunga,Loja,Cotopaxi,Loja,345,OTHER_STATE
+DELI,44,18,Quito,Quito,Pichincha,Pichincha,135,SAME_CITY
+DELI,8,18,Quito,Quito,Pichincha,Pichincha,108,SAME_CITY
+DELI,11,18,Cayambe,Quito,Pichincha,Pichincha,81,SAME_STATE
+DELI,11,10,Cayambe,Quito,Pichincha,Pichincha,101,SAME_STATE
+DELI,19,10,Guaranda,Quito,Bolivar,Pichincha,165,OTHER_STATE
+DELI,14,21,Riobamba,Santo Domingo,Chimborazo,Santo Domingo de los Tsachilas,264,OTHER_STATE
+DELI,13,12,Latacunga,Latacunga,Cotopaxi,Cotopaxi,205,SAME_CITY
+DELI,39,12,Cuenca,Latacunga,Azuay,Cotopaxi,57,OTHER_STATE
+DELI,19,25,Guaranda,Salinas,Bolivar,Santa Elena,242,OTHER_STATE
+DELI,39,47,Cuenca,Quito,Azuay,Pichincha,126,OTHER_STATE
+DELI,26,28,Guayaquil,Guayaquil,Guayas,Guayas,18,SAME_CITY
+DELI,27,28,Daule,Guayaquil,Guayas,Guayas,51,SAME_STATE
+DELI,14,28,Riobamba,Guayaquil,Chimborazo,Guayas,45,OTHER_STATE
+DELI,14,15,Riobamba,Ibarra,Chimborazo,Imbabura,57,OTHER_STATE
+DELI,37,1,Cuenca,Quito,Azuay,Pichincha,51,OTHER_STATE
+DELI,39,5,Cuenca,Santo Domingo,Azuay,Santo Domingo de los Tsachilas,18,OTHER_STATE
+EGGS,49,31,Quito,Babahoyo,Pichincha,Los Rios,1193,OTHER_STATE
+EGGS,8,47,Quito,Quito,Pichincha,Pichincha,806,SAME_CITY
+EGGS,18,47,Quito,Quito,Pichincha,Pichincha,267,SAME_CITY
+EGGS,4,45,Quito,Quito,Pichincha,Pichincha,505,SAME_CITY
+EGGS,9,45,Quito,Quito,Pichincha,Pichincha,351,SAME_CITY
+EGGS,18,45,Quito,Quito,Pichincha,Pichincha,196,SAME_CITY
+EGGS,32,51,Guayaquil,Guayaquil,Guayas,Guayas,683,SAME_CITY
+EGGS,29,51,Guayaquil,Guayaquil,Guayas,Guayas,336,SAME_CITY
+EGGS,46,7,Quito,Quito,Pichincha,Pichincha,191,SAME_CITY
+EGGS,20,7,Quito,Quito,Pichincha,Pichincha,187,SAME_CITY
+EGGS,48,7,Quito,Quito,Pichincha,Pichincha,125,SAME_CITY
+EGGS,18,7,Quito,Quito,Pichincha,Pichincha,102,SAME_CITY
+EGGS,49,7,Quito,Quito,Pichincha,Pichincha,87,SAME_CITY
+EGGS,10,7,Quito,Quito,Pichincha,Pichincha,53,SAME_CITY
+EGGS,36,7,Libertad,Quito,Guayas,Pichincha,106,OTHER_STATE
+EGGS,52,11,Manta,Cayambe,Manabi,Pichincha,451,OTHER_STATE
+EGGS,16,11,Santo Domingo,Cayambe,Santo Domingo de los Tsachilas,Pichincha,378,OTHER_STATE
+EGGS,5,21,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,304,SAME_CITY
+EGGS,16,21,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,10,SAME_CITY
+EGGS,36,21,Libertad,Santo Domingo,Guayas,Santo Domingo de los Tsachilas,374,OTHER_STATE
+EGGS,25,21,Salinas,Santo Domingo,Santa Elena,Santo Domingo de los Tsachilas,125,OTHER_STATE
+EGGS,41,3,Machala,Quito,El Oro,Pichincha,309,OTHER_STATE
+EGGS,25,3,Salinas,Quito,Santa Elena,Pichincha,247,OTHER_STATE
+EGGS,54,3,El Carmen,Quito,Manabi,Pichincha,242,OTHER_STATE
+EGGS,24,3,Guayaquil,Quito,Guayas,Pichincha,3,OTHER_STATE
+EGGS,24,27,Guayaquil,Daule,Guayas,Guayas,227,SAME_STATE
+EGGS,29,27,Guayaquil,Daule,Guayas,Guayas,193,SAME_STATE
+EGGS,19,27,Guaranda,Daule,Bolivar,Guayas,224,OTHER_STATE
+EGGS,22,27,Puyo,Daule,Pastaza,Guayas,157,OTHER_STATE
+EGGS,22,6,Puyo,Quito,Pastaza,Pichincha,38,OTHER_STATE
+EGGS,14,6,Riobamba,Quito,Chimborazo,Pichincha,37,OTHER_STATE
+FROZEN FOODS,44,47,Quito,Quito,Pichincha,Pichincha,523,SAME_CITY
+FROZEN FOODS,44,45,Quito,Quito,Pichincha,Pichincha,521,SAME_CITY
+FROZEN FOODS,46,50,Quito,Ambato,Pichincha,Tungurahua,411,OTHER_STATE
+FROZEN FOODS,51,24,Guayaquil,Guayaquil,Guayas,Guayas,319,SAME_CITY
+FROZEN FOODS,26,24,Guayaquil,Guayaquil,Guayas,Guayas,64,SAME_CITY
+FROZEN FOODS,36,24,Libertad,Guayaquil,Guayas,Guayas,1,SAME_STATE
+FROZEN FOODS,48,8,Quito,Quito,Pichincha,Pichincha,366,SAME_CITY
+FROZEN FOODS,36,34,Libertad,Guayaquil,Guayas,Guayas,253,SAME_STATE
+FROZEN FOODS,35,34,Playas,Guayaquil,Guayas,Guayas,69,SAME_STATE
+FROZEN FOODS,35,27,Playas,Daule,Guayas,Guayas,4,SAME_STATE
+FROZEN FOODS,44,27,Quito,Daule,Pichincha,Guayas,310,OTHER_STATE
+FROZEN FOODS,49,28,Quito,Guayaquil,Pichincha,Guayas,312,OTHER_STATE
+FROZEN FOODS,52,38,Manta,Loja,Manabi,Loja,274,OTHER_STATE
+FROZEN FOODS,3,29,Quito,Guayaquil,Pichincha,Guayas,216,OTHER_STATE
+FROZEN FOODS,1,15,Quito,Ibarra,Pichincha,Imbabura,206,OTHER_STATE
+FROZEN FOODS,53,23,Manta,Ambato,Manabi,Tungurahua,108,OTHER_STATE
+FROZEN FOODS,13,12,Latacunga,Latacunga,Cotopaxi,Cotopaxi,90,SAME_CITY
+FROZEN FOODS,46,12,Quito,Latacunga,Pichincha,Cotopaxi,17,OTHER_STATE
+FROZEN FOODS,46,9,Quito,Quito,Pichincha,Pichincha,103,SAME_CITY
+FROZEN FOODS,11,22,Cayambe,Puyo,Pichincha,Pastaza,96,OTHER_STATE
+FROZEN FOODS,48,6,Quito,Quito,Pichincha,Pichincha,87,SAME_CITY
+FROZEN FOODS,17,10,Quito,Quito,Pichincha,Pichincha,70,SAME_CITY
+FROZEN FOODS,44,16,Quito,Santo Domingo,Pichincha,Santo Domingo de los Tsachilas,52,OTHER_STATE
+FROZEN FOODS,53,54,Manta,El Carmen,Manabi,Manabi,48,SAME_STATE
+FROZEN FOODS,37,42,Cuenca,Cuenca,Azuay,Azuay,38,SAME_CITY
+FROZEN FOODS,2,4,Quito,Quito,Pichincha,Pichincha,34,SAME_CITY
+FROZEN FOODS,33,31,Quevedo,Babahoyo,Los Rios,Los Rios,28,SAME_STATE
+FROZEN FOODS,3,32,Quito,Guayaquil,Pichincha,Guayas,10,OTHER_STATE
+FROZEN FOODS,2,18,Quito,Quito,Pichincha,Pichincha,9,SAME_CITY
+FROZEN FOODS,40,41,Machala,Machala,El Oro,El Oro,4,SAME_CITY
+GROCERY I,48,49,Quito,Quito,Pichincha,Pichincha,19590,SAME_CITY
+GROCERY I,6,47,Quito,Quito,Pichincha,Pichincha,14519,SAME_CITY
+GROCERY I,17,39,Quito,Cuenca,Pichincha,Azuay,14445,OTHER_STATE
+GROCERY I,21,31,Santo Domingo,Babahoyo,Santo Domingo de los Tsachilas,Los Rios,13272,OTHER_STATE
+GROCERY I,11,53,Cayambe,Manta,Pichincha,Manabi,13225,OTHER_STATE
+GROCERY I,20,33,Quito,Quevedo,Pichincha,Los Rios,11843,OTHER_STATE
+GROCERY I,45,9,Quito,Quito,Pichincha,Pichincha,9667,SAME_CITY
+GROCERY I,29,13,Guayaquil,Latacunga,Guayas,Cotopaxi,9060,OTHER_STATE
+GROCERY I,51,54,Guayaquil,El Carmen,Guayas,Manabi,8453,OTHER_STATE
+GROCERY I,46,4,Quito,Quito,Pichincha,Pichincha,8404,SAME_CITY
+GROCERY I,19,12,Guaranda,Latacunga,Bolivar,Cotopaxi,8295,OTHER_STATE
+GROCERY I,2,14,Quito,Riobamba,Pichincha,Chimborazo,8186,OTHER_STATE
+GROCERY I,44,10,Quito,Quito,Pichincha,Pichincha,7668,SAME_CITY
+GROCERY I,27,25,Daule,Salinas,Guayas,Santa Elena,6002,OTHER_STATE
+GROCERY I,26,34,Guayaquil,Guayaquil,Guayas,Guayas,5157,SAME_CITY
+GROCERY I,29,30,Guayaquil,Guayaquil,Guayas,Guayas,5084,SAME_CITY
+GROCERY I,35,40,Playas,Machala,Guayas,El Oro,4945,OTHER_STATE
+GROCERY I,48,15,Quito,Ibarra,Pichincha,Imbabura,4944,OTHER_STATE
+GROCERY I,18,50,Quito,Ambato,Pichincha,Tungurahua,4672,OTHER_STATE
+GROCERY I,7,23,Quito,Ambato,Pichincha,Tungurahua,1776,OTHER_STATE
+GROCERY I,51,28,Guayaquil,Guayaquil,Guayas,Guayas,678,SAME_CITY
+GROCERY I,16,5,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,649,SAME_CITY
+GROCERY II,45,44,Quito,Quito,Pichincha,Pichincha,233,SAME_CITY
+GROCERY II,3,44,Quito,Quito,Pichincha,Pichincha,188,SAME_CITY
+GROCERY II,6,49,Quito,Quito,Pichincha,Pichincha,112,SAME_CITY
+GROCERY II,48,49,Quito,Quito,Pichincha,Pichincha,102,SAME_CITY
+GROCERY II,1,49,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+GROCERY II,18,47,Quito,Quito,Pichincha,Pichincha,38,SAME_CITY
+GROCERY II,1,47,Quito,Quito,Pichincha,Pichincha,36,SAME_CITY
+GROCERY II,8,47,Quito,Quito,Pichincha,Pichincha,34,SAME_CITY
+GROCERY II,3,47,Quito,Quito,Pichincha,Pichincha,22,SAME_CITY
+GROCERY II,20,47,Quito,Quito,Pichincha,Pichincha,16,SAME_CITY
+GROCERY II,41,47,Machala,Quito,El Oro,Pichincha,39,OTHER_STATE
+GROCERY II,41,52,Machala,Manta,El Oro,Manabi,124,OTHER_STATE
+GROCERY II,39,52,Cuenca,Manta,Azuay,Manabi,59,OTHER_STATE
+GROCERY II,21,5,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,28,SAME_CITY
+GROCERY II,39,5,Cuenca,Santo Domingo,Azuay,Santo Domingo de los Tsachilas,54,OTHER_STATE
+GROCERY II,13,5,Latacunga,Santo Domingo,Cotopaxi,Santo Domingo de los Tsachilas,38,OTHER_STATE
+GROCERY II,28,27,Guayaquil,Daule,Guayas,Guayas,50,SAME_STATE
+GROCERY II,36,27,Libertad,Daule,Guayas,Guayas,14,SAME_STATE
+GROCERY II,34,27,Guayaquil,Daule,Guayas,Guayas,11,SAME_STATE
+GROCERY II,12,27,Latacunga,Daule,Cotopaxi,Guayas,16,OTHER_STATE
+GROCERY II,13,27,Latacunga,Daule,Cotopaxi,Guayas,14,OTHER_STATE
+GROCERY II,22,27,Puyo,Daule,Pastaza,Guayas,10,OTHER_STATE
+GROCERY II,14,51,Riobamba,Guayaquil,Chimborazo,Guayas,2,OTHER_STATE
+GROCERY II,22,51,Puyo,Guayaquil,Pastaza,Guayas,1,OTHER_STATE
+HARDWARE,8,44,Quito,Quito,Pichincha,Pichincha,10,SAME_CITY
+HARDWARE,49,44,Quito,Quito,Pichincha,Pichincha,3,SAME_CITY
+HARDWARE,9,7,Quito,Quito,Pichincha,Pichincha,4,SAME_CITY
+HARDWARE,46,7,Quito,Quito,Pichincha,Pichincha,4,SAME_CITY
+HARDWARE,52,54,Manta,El Carmen,Manabi,Manabi,7,SAME_STATE
+HARDWARE,37,42,Cuenca,Cuenca,Azuay,Azuay,3,SAME_CITY
+HARDWARE,41,42,Machala,Cuenca,El Oro,Azuay,3,OTHER_STATE
+HARDWARE,51,38,Guayaquil,Loja,Guayas,Loja,5,OTHER_STATE
+HARDWARE,50,23,Ambato,Ambato,Tungurahua,Tungurahua,3,SAME_CITY
+HARDWARE,49,2,Quito,Quito,Pichincha,Pichincha,3,SAME_CITY
+HARDWARE,53,14,Manta,Riobamba,Manabi,Chimborazo,2,OTHER_STATE
+HARDWARE,34,16,Guayaquil,Santo Domingo,Guayas,Santo Domingo de los Tsachilas,2,OTHER_STATE
+HARDWARE,34,30,Guayaquil,Guayaquil,Guayas,Guayas,2,SAME_CITY
+HARDWARE,27,36,Daule,Libertad,Guayas,Guayas,2,SAME_STATE
+HARDWARE,3,48,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+HARDWARE,17,45,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+HARDWARE,3,1,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+HARDWARE,53,43,Manta,Esmeraldas,Manabi,Esmeraldas,1,OTHER_STATE
+HARDWARE,41,5,Machala,Santo Domingo,El Oro,Santo Domingo de los Tsachilas,1,OTHER_STATE
+HARDWARE,51,32,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+HOME AND KITCHEN I,9,44,Quito,Quito,Pichincha,Pichincha,126,SAME_CITY
+HOME AND KITCHEN I,47,44,Quito,Quito,Pichincha,Pichincha,101,SAME_CITY
+HOME AND KITCHEN I,17,44,Quito,Quito,Pichincha,Pichincha,4,SAME_CITY
+HOME AND KITCHEN I,6,45,Quito,Quito,Pichincha,Pichincha,88,SAME_CITY
+HOME AND KITCHEN I,17,45,Quito,Quito,Pichincha,Pichincha,78,SAME_CITY
+HOME AND KITCHEN I,7,49,Quito,Quito,Pichincha,Pichincha,67,SAME_CITY
+HOME AND KITCHEN I,18,49,Quito,Quito,Pichincha,Pichincha,46,SAME_CITY
+HOME AND KITCHEN I,52,53,Manta,Manta,Manabi,Manabi,106,SAME_CITY
+HOME AND KITCHEN I,51,34,Guayaquil,Guayaquil,Guayas,Guayas,87,SAME_CITY
+HOME AND KITCHEN I,52,34,Manta,Guayaquil,Manabi,Guayas,17,OTHER_STATE
+HOME AND KITCHEN I,46,48,Quito,Quito,Pichincha,Pichincha,51,SAME_CITY
+HOME AND KITCHEN I,2,48,Quito,Quito,Pichincha,Pichincha,26,SAME_CITY
+HOME AND KITCHEN I,8,48,Quito,Quito,Pichincha,Pichincha,22,SAME_CITY
+HOME AND KITCHEN I,52,38,Manta,Loja,Manabi,Loja,90,OTHER_STATE
+HOME AND KITCHEN I,18,20,Quito,Quito,Pichincha,Pichincha,17,SAME_CITY
+HOME AND KITCHEN I,17,20,Quito,Quito,Pichincha,Pichincha,8,SAME_CITY
+HOME AND KITCHEN I,8,20,Quito,Quito,Pichincha,Pichincha,3,SAME_CITY
+HOME AND KITCHEN I,11,20,Cayambe,Quito,Pichincha,Pichincha,51,SAME_STATE
+HOME AND KITCHEN I,50,20,Ambato,Quito,Tungurahua,Pichincha,10,OTHER_STATE
+HOME AND KITCHEN I,41,24,Machala,Guayaquil,El Oro,Guayas,60,OTHER_STATE
+HOME AND KITCHEN I,40,24,Machala,Guayaquil,El Oro,Guayas,18,OTHER_STATE
+HOME AND KITCHEN I,50,29,Ambato,Guayaquil,Tungurahua,Guayas,52,OTHER_STATE
+HOME AND KITCHEN I,40,29,Machala,Guayaquil,El Oro,Guayas,17,OTHER_STATE
+HOME AND KITCHEN I,52,54,Manta,El Carmen,Manabi,Manabi,2,SAME_STATE
+HOME AND KITCHEN I,37,54,Cuenca,El Carmen,Azuay,Manabi,33,OTHER_STATE
+HOME AND KITCHEN I,40,54,Machala,El Carmen,El Oro,Manabi,21,OTHER_STATE
+HOME AND KITCHEN I,33,43,Quevedo,Esmeraldas,Los Rios,Esmeraldas,22,OTHER_STATE
+HOME AND KITCHEN I,13,43,Latacunga,Esmeraldas,Cotopaxi,Esmeraldas,18,OTHER_STATE
+HOME AND KITCHEN I,15,43,Ibarra,Esmeraldas,Imbabura,Esmeraldas,9,OTHER_STATE
+HOME AND KITCHEN I,40,1,Machala,Quito,El Oro,Pichincha,3,OTHER_STATE
+HOME AND KITCHEN I,15,1,Ibarra,Quito,Imbabura,Pichincha,1,OTHER_STATE
+HOME AND KITCHEN II,44,47,Quito,Quito,Pichincha,Pichincha,322,SAME_CITY
+HOME AND KITCHEN II,49,48,Quito,Quito,Pichincha,Pichincha,172,SAME_CITY
+HOME AND KITCHEN II,6,9,Quito,Quito,Pichincha,Pichincha,139,SAME_CITY
+HOME AND KITCHEN II,45,41,Quito,Machala,Pichincha,El Oro,92,OTHER_STATE
+HOME AND KITCHEN II,39,37,Cuenca,Cuenca,Azuay,Azuay,72,SAME_CITY
+HOME AND KITCHEN II,44,37,Quito,Cuenca,Pichincha,Azuay,10,OTHER_STATE
+HOME AND KITCHEN II,44,17,Quito,Quito,Pichincha,Pichincha,81,SAME_CITY
+HOME AND KITCHEN II,3,38,Quito,Loja,Pichincha,Loja,64,OTHER_STATE
+HOME AND KITCHEN II,49,2,Quito,Quito,Pichincha,Pichincha,58,SAME_CITY
+HOME AND KITCHEN II,51,28,Guayaquil,Guayaquil,Guayas,Guayas,56,SAME_CITY
+HOME AND KITCHEN II,21,40,Santo Domingo,Machala,Santo Domingo de los Tsachilas,El Oro,45,OTHER_STATE
+HOME AND KITCHEN II,46,20,Quito,Quito,Pichincha,Pichincha,38,SAME_CITY
+HOME AND KITCHEN II,24,29,Guayaquil,Guayaquil,Guayas,Guayas,37,SAME_CITY
+HOME AND KITCHEN II,3,8,Quito,Quito,Pichincha,Pichincha,35,SAME_CITY
+HOME AND KITCHEN II,52,54,Manta,El Carmen,Manabi,Manabi,23,SAME_STATE
+HOME AND KITCHEN II,12,13,Latacunga,Latacunga,Cotopaxi,Cotopaxi,23,SAME_CITY
+HOME AND KITCHEN II,11,42,Cayambe,Cuenca,Pichincha,Azuay,21,OTHER_STATE
+HOME AND KITCHEN II,34,35,Guayaquil,Playas,Guayas,Guayas,16,SAME_STATE
+HOME AND KITCHEN II,34,32,Guayaquil,Guayaquil,Guayas,Guayas,11,SAME_CITY
+HOME AND KITCHEN II,21,5,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,7,SAME_CITY
+HOME AND KITCHEN II,31,33,Babahoyo,Quevedo,Los Rios,Los Rios,6,SAME_STATE
+HOME AND KITCHEN II,45,10,Quito,Quito,Pichincha,Pichincha,6,SAME_CITY
+HOME AND KITCHEN II,23,22,Ambato,Puyo,Tungurahua,Pastaza,2,OTHER_STATE
+HOME APPLIANCES,50,42,Ambato,Cuenca,Tungurahua,Azuay,7,OTHER_STATE
+HOME APPLIANCES,7,49,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+HOME APPLIANCES,4,49,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+HOME APPLIANCES,18,49,Quito,Quito,Pichincha,Pichincha,1,SAME_CITY
+HOME APPLIANCES,54,49,El Carmen,Quito,Manabi,Pichincha,2,OTHER_STATE
+HOME APPLIANCES,52,45,Manta,Quito,Manabi,Pichincha,6,OTHER_STATE
+HOME APPLIANCES,29,51,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+HOME APPLIANCES,27,51,Daule,Guayaquil,Guayas,Guayas,3,SAME_STATE
+HOME APPLIANCES,35,51,Playas,Guayaquil,Guayas,Guayas,1,SAME_STATE
+HOME APPLIANCES,40,44,Machala,Quito,El Oro,Pichincha,5,OTHER_STATE
+HOME APPLIANCES,54,53,El Carmen,Manta,Manabi,Manabi,4,SAME_STATE
+HOME APPLIANCES,13,43,Latacunga,Esmeraldas,Cotopaxi,Esmeraldas,2,OTHER_STATE
+HOME APPLIANCES,14,43,Riobamba,Esmeraldas,Chimborazo,Esmeraldas,1,OTHER_STATE
+HOME APPLIANCES,22,23,Puyo,Ambato,Pastaza,Tungurahua,2,OTHER_STATE
+HOME APPLIANCES,25,23,Salinas,Ambato,Santa Elena,Tungurahua,1,OTHER_STATE
+HOME APPLIANCES,33,2,Quevedo,Quito,Los Rios,Pichincha,2,OTHER_STATE
+HOME APPLIANCES,14,46,Riobamba,Quito,Chimborazo,Pichincha,1,OTHER_STATE
+HOME APPLIANCES,19,46,Guaranda,Quito,Bolivar,Pichincha,1,OTHER_STATE
+HOME APPLIANCES,25,39,Salinas,Cuenca,Santa Elena,Azuay,1,OTHER_STATE
+HOME APPLIANCES,54,39,El Carmen,Cuenca,Manabi,Azuay,1,OTHER_STATE
+HOME CARE,45,3,Quito,Quito,Pichincha,Pichincha,2093,SAME_CITY
+HOME CARE,30,51,Guayaquil,Guayaquil,Guayas,Guayas,156,SAME_CITY
+HOME CARE,32,51,Guayaquil,Guayaquil,Guayas,Guayas,127,SAME_CITY
+HOME CARE,36,51,Libertad,Guayaquil,Guayas,Guayas,488,SAME_STATE
+HOME CARE,40,51,Machala,Guayaquil,El Oro,Guayas,553,OTHER_STATE
+HOME CARE,5,21,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,636,SAME_CITY
+HOME CARE,47,21,Quito,Santo Domingo,Pichincha,Santo Domingo de los Tsachilas,469,OTHER_STATE
+HOME CARE,47,2,Quito,Quito,Pichincha,Pichincha,1100,SAME_CITY
+HOME CARE,52,38,Manta,Loja,Manabi,Loja,1030,OTHER_STATE
+HOME CARE,20,9,Quito,Quito,Pichincha,Pichincha,981,SAME_CITY
+HOME CARE,53,54,Manta,El Carmen,Manabi,Manabi,720,SAME_STATE
+HOME CARE,52,54,Manta,El Carmen,Manabi,Manabi,174,SAME_STATE
+HOME CARE,40,24,Machala,Guayaquil,El Oro,Guayas,769,OTHER_STATE
+HOME CARE,49,7,Quito,Quito,Pichincha,Pichincha,726,SAME_CITY
+HOME CARE,45,7,Quito,Quito,Pichincha,Pichincha,24,SAME_CITY
+HOME CARE,42,29,Cuenca,Guayaquil,Azuay,Guayas,721,OTHER_STATE
+HOME CARE,41,43,Machala,Esmeraldas,El Oro,Esmeraldas,674,OTHER_STATE
+HOME CARE,12,13,Latacunga,Latacunga,Cotopaxi,Cotopaxi,628,SAME_CITY
+HOME CARE,45,6,Quito,Quito,Pichincha,Pichincha,528,SAME_CITY
+HOME CARE,1,6,Quito,Quito,Pichincha,Pichincha,10,SAME_CITY
+HOME CARE,19,28,Guaranda,Guayaquil,Bolivar,Guayas,507,OTHER_STATE
+HOME CARE,33,25,Quevedo,Salinas,Los Rios,Santa Elena,435,OTHER_STATE
+HOME CARE,1,46,Quito,Quito,Pichincha,Pichincha,417,SAME_CITY
+HOME CARE,31,50,Babahoyo,Ambato,Los Rios,Tungurahua,328,OTHER_STATE
+HOME CARE,4,16,Quito,Santo Domingo,Pichincha,Santo Domingo de los Tsachilas,313,OTHER_STATE
+HOME CARE,37,39,Cuenca,Cuenca,Azuay,Azuay,211,SAME_CITY
+HOME CARE,42,39,Cuenca,Cuenca,Azuay,Azuay,93,SAME_CITY
+HOME CARE,4,18,Quito,Quito,Pichincha,Pichincha,121,SAME_CITY
+HOME CARE,1,18,Quito,Quito,Pichincha,Pichincha,95,SAME_CITY
+HOME CARE,20,18,Quito,Quito,Pichincha,Pichincha,76,SAME_CITY
+HOME CARE,47,17,Quito,Quito,Pichincha,Pichincha,37,SAME_CITY
+HOME CARE,20,17,Quito,Quito,Pichincha,Pichincha,16,SAME_CITY
+HOME CARE,40,17,Machala,Quito,El Oro,Pichincha,226,OTHER_STATE
+HOME CARE,52,10,Manta,Quito,Manabi,Pichincha,279,OTHER_STATE
+HOME CARE,19,8,Guaranda,Quito,Bolivar,Pichincha,226,OTHER_STATE
+HOME CARE,22,34,Puyo,Guayaquil,Pastaza,Guayas,216,OTHER_STATE
+HOME CARE,33,27,Quevedo,Daule,Los Rios,Guayas,212,OTHER_STATE
+HOME CARE,31,15,Babahoyo,Ibarra,Los Rios,Imbabura,174,OTHER_STATE
+HOME CARE,14,35,Riobamba,Playas,Chimborazo,Guayas,133,OTHER_STATE
+HOME CARE,41,26,Machala,Guayaquil,El Oro,Guayas,86,OTHER_STATE
+HOME CARE,40,48,Machala,Quito,El Oro,Pichincha,29,OTHER_STATE
+LADIESWEAR,44,3,Quito,Quito,Pichincha,Pichincha,131,SAME_CITY
+LADIESWEAR,46,45,Quito,Quito,Pichincha,Pichincha,72,SAME_CITY
+LADIESWEAR,47,7,Quito,Quito,Pichincha,Pichincha,32,SAME_CITY
+LADIESWEAR,2,9,Quito,Quito,Pichincha,Pichincha,23,SAME_CITY
+LADIESWEAR,6,11,Quito,Cayambe,Pichincha,Pichincha,22,SAME_STATE
+LADIESWEAR,49,48,Quito,Quito,Pichincha,Pichincha,21,SAME_CITY
+LADIESWEAR,38,41,Loja,Machala,Loja,El Oro,18,OTHER_STATE
+LADIESWEAR,38,50,Loja,Ambato,Loja,Tungurahua,15,OTHER_STATE
+LADIESWEAR,5,42,Santo Domingo,Cuenca,Santo Domingo de los Tsachilas,Azuay,13,OTHER_STATE
+LADIESWEAR,53,52,Manta,Manta,Manabi,Manabi,8,SAME_CITY
+LADIESWEAR,47,52,Quito,Manta,Pichincha,Manabi,4,OTHER_STATE
+LADIESWEAR,8,4,Quito,Quito,Pichincha,Pichincha,10,SAME_CITY
+LADIESWEAR,24,27,Guayaquil,Daule,Guayas,Guayas,10,SAME_STATE
+LADIESWEAR,2,15,Quito,Ibarra,Pichincha,Imbabura,9,OTHER_STATE
+LADIESWEAR,6,54,Quito,El Carmen,Pichincha,Manabi,6,OTHER_STATE
+LADIESWEAR,47,20,Quito,Quito,Pichincha,Pichincha,6,SAME_CITY
+LADIESWEAR,5,21,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,4,SAME_CITY
+LADIESWEAR,6,43,Quito,Esmeraldas,Pichincha,Esmeraldas,4,OTHER_STATE
+LADIESWEAR,19,14,Guaranda,Riobamba,Bolivar,Chimborazo,3,OTHER_STATE
+LADIESWEAR,12,13,Latacunga,Latacunga,Cotopaxi,Cotopaxi,3,SAME_CITY
+LADIESWEAR,47,25,Quito,Salinas,Pichincha,Santa Elena,3,OTHER_STATE
+LADIESWEAR,24,26,Guayaquil,Guayaquil,Guayas,Guayas,2,SAME_CITY
+LADIESWEAR,49,37,Quito,Cuenca,Pichincha,Azuay,2,OTHER_STATE
+LADIESWEAR,2,17,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+LADIESWEAR,8,10,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+LADIESWEAR,38,23,Loja,Ambato,Loja,Tungurahua,1,OTHER_STATE
+LADIESWEAR,24,29,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+LADIESWEAR,38,33,Loja,Quevedo,Loja,Los Rios,1,OTHER_STATE
+LADIESWEAR,5,16,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,1,SAME_CITY
+LAWN AND GARDEN,7,45,Quito,Quito,Pichincha,Pichincha,123,SAME_CITY
+LAWN AND GARDEN,24,51,Guayaquil,Guayaquil,Guayas,Guayas,72,SAME_CITY
+LAWN AND GARDEN,3,49,Quito,Quito,Pichincha,Pichincha,62,SAME_CITY
+LAWN AND GARDEN,40,41,Machala,Machala,El Oro,El Oro,2,SAME_CITY
+LAWN AND GARDEN,44,41,Quito,Machala,Pichincha,El Oro,50,OTHER_STATE
+LAWN AND GARDEN,42,37,Cuenca,Cuenca,Azuay,Azuay,42,SAME_CITY
+LAWN AND GARDEN,42,39,Cuenca,Cuenca,Azuay,Azuay,42,SAME_CITY
+LAWN AND GARDEN,8,38,Quito,Loja,Pichincha,Loja,26,OTHER_STATE
+LAWN AND GARDEN,25,5,Salinas,Santo Domingo,Santa Elena,Santo Domingo de los Tsachilas,20,OTHER_STATE
+LAWN AND GARDEN,24,34,Guayaquil,Guayaquil,Guayas,Guayas,11,SAME_CITY
+LAWN AND GARDEN,47,21,Quito,Santo Domingo,Pichincha,Santo Domingo de los Tsachilas,3,OTHER_STATE
+LAWN AND GARDEN,47,13,Quito,Latacunga,Pichincha,Cotopaxi,2,OTHER_STATE
+LAWN AND GARDEN,47,16,Quito,Santo Domingo,Pichincha,Santo Domingo de los Tsachilas,2,OTHER_STATE
+LAWN AND GARDEN,50,23,Ambato,Ambato,Tungurahua,Tungurahua,2,SAME_CITY
+LAWN AND GARDEN,26,29,Guayaquil,Guayaquil,Guayas,Guayas,2,SAME_CITY
+LAWN AND GARDEN,47,19,Quito,Guaranda,Pichincha,Bolivar,1,OTHER_STATE
+LAWN AND GARDEN,26,30,Guayaquil,Guayaquil,Guayas,Guayas,1,SAME_CITY
+LINGERIE,46,44,Quito,Quito,Pichincha,Pichincha,19,SAME_CITY
+LINGERIE,20,44,Quito,Quito,Pichincha,Pichincha,4,SAME_CITY
+LINGERIE,2,44,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+LINGERIE,41,44,Machala,Quito,El Oro,Pichincha,19,OTHER_STATE
+LINGERIE,28,44,Guayaquil,Quito,Guayas,Pichincha,13,OTHER_STATE
+LINGERIE,19,44,Guaranda,Quito,Bolivar,Pichincha,8,OTHER_STATE
+LINGERIE,42,44,Cuenca,Quito,Azuay,Pichincha,6,OTHER_STATE
+LINGERIE,13,40,Latacunga,Machala,Cotopaxi,El Oro,7,OTHER_STATE
+LINGERIE,31,40,Babahoyo,Machala,Los Rios,El Oro,7,OTHER_STATE
+LINGERIE,51,40,Guayaquil,Machala,Guayas,El Oro,5,OTHER_STATE
+LINGERIE,22,40,Puyo,Machala,Pastaza,El Oro,4,OTHER_STATE
+LINGERIE,42,40,Cuenca,Machala,Azuay,El Oro,2,OTHER_STATE
+LINGERIE,35,40,Playas,Machala,Guayas,El Oro,1,OTHER_STATE
+"LIQUOR,WINE,BEER",49,44,Quito,Quito,Pichincha,Pichincha,983,SAME_CITY
+"LIQUOR,WINE,BEER",47,44,Quito,Quito,Pichincha,Pichincha,331,SAME_CITY
+"LIQUOR,WINE,BEER",52,25,Manta,Salinas,Manabi,Santa Elena,757,OTHER_STATE
+"LIQUOR,WINE,BEER",1,3,Quito,Quito,Pichincha,Pichincha,352,SAME_CITY
+"LIQUOR,WINE,BEER",48,3,Quito,Quito,Pichincha,Pichincha,262,SAME_CITY
+"LIQUOR,WINE,BEER",16,21,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,69,SAME_CITY
+"LIQUOR,WINE,BEER",24,21,Guayaquil,Santo Domingo,Guayas,Santo Domingo de los Tsachilas,347,OTHER_STATE
+"LIQUOR,WINE,BEER",51,21,Guayaquil,Santo Domingo,Guayas,Santo Domingo de los Tsachilas,7,OTHER_STATE
+"LIQUOR,WINE,BEER",51,38,Guayaquil,Loja,Guayas,Loja,324,OTHER_STATE
+"LIQUOR,WINE,BEER",43,38,Esmeraldas,Loja,Esmeraldas,Loja,29,OTHER_STATE
+"LIQUOR,WINE,BEER",47,6,Quito,Quito,Pichincha,Pichincha,234,SAME_CITY
+"LIQUOR,WINE,BEER",2,6,Quito,Quito,Pichincha,Pichincha,75,SAME_CITY
+"LIQUOR,WINE,BEER",4,8,Quito,Quito,Pichincha,Pichincha,112,SAME_CITY
+"LIQUOR,WINE,BEER",2,8,Quito,Quito,Pichincha,Pichincha,95,SAME_CITY
+"LIQUOR,WINE,BEER",48,8,Quito,Quito,Pichincha,Pichincha,72,SAME_CITY
+"LIQUOR,WINE,BEER",10,8,Quito,Quito,Pichincha,Pichincha,24,SAME_CITY
+"LIQUOR,WINE,BEER",10,7,Quito,Quito,Pichincha,Pichincha,10,SAME_CITY
+"LIQUOR,WINE,BEER",43,7,Esmeraldas,Quito,Esmeraldas,Pichincha,270,OTHER_STATE
+"LIQUOR,WINE,BEER",28,7,Guayaquil,Quito,Guayas,Pichincha,1,OTHER_STATE
+"LIQUOR,WINE,BEER",37,42,Cuenca,Cuenca,Azuay,Azuay,222,SAME_CITY
+"LIQUOR,WINE,BEER",28,42,Guayaquil,Cuenca,Guayas,Azuay,27,OTHER_STATE
+"LIQUOR,WINE,BEER",50,20,Ambato,Quito,Tungurahua,Pichincha,209,OTHER_STATE
+"LIQUOR,WINE,BEER",28,9,Guayaquil,Quito,Guayas,Pichincha,195,OTHER_STATE
+"LIQUOR,WINE,BEER",52,5,Manta,Santo Domingo,Manabi,Santo Domingo de los Tsachilas,176,OTHER_STATE
+"LIQUOR,WINE,BEER",29,22,Guayaquil,Puyo,Guayas,Pastaza,162,OTHER_STATE
+"LIQUOR,WINE,BEER",40,39,Machala,Cuenca,El Oro,Azuay,125,OTHER_STATE
+"LIQUOR,WINE,BEER",26,27,Guayaquil,Daule,Guayas,Guayas,31,SAME_STATE
+"LIQUOR,WINE,BEER",28,27,Guayaquil,Daule,Guayas,Guayas,20,SAME_STATE
+"LIQUOR,WINE,BEER",29,27,Guayaquil,Daule,Guayas,Guayas,7,SAME_STATE
+"LIQUOR,WINE,BEER",12,27,Latacunga,Daule,Cotopaxi,Guayas,66,OTHER_STATE
+"LIQUOR,WINE,BEER",23,30,Ambato,Guayaquil,Tungurahua,Guayas,96,OTHER_STATE
+"LIQUOR,WINE,BEER",12,13,Latacunga,Latacunga,Cotopaxi,Cotopaxi,73,SAME_CITY
+"LIQUOR,WINE,BEER",19,13,Guaranda,Latacunga,Bolivar,Cotopaxi,19,OTHER_STATE
+"LIQUOR,WINE,BEER",19,15,Guaranda,Ibarra,Bolivar,Imbabura,56,OTHER_STATE
+"LIQUOR,WINE,BEER",54,15,El Carmen,Ibarra,Manabi,Imbabura,30,OTHER_STATE
+"LIQUOR,WINE,BEER",14,36,Riobamba,Libertad,Chimborazo,Guayas,40,OTHER_STATE
+"LIQUOR,WINE,BEER",33,36,Quevedo,Libertad,Los Rios,Guayas,23,OTHER_STATE
+"LIQUOR,WINE,BEER",52,32,Manta,Guayaquil,Manabi,Guayas,31,OTHER_STATE
+"LIQUOR,WINE,BEER",50,32,Ambato,Guayaquil,Tungurahua,Guayas,19,OTHER_STATE
+"LIQUOR,WINE,BEER",40,46,Machala,Quito,El Oro,Pichincha,23,OTHER_STATE
+"LIQUOR,WINE,BEER",54,46,El Carmen,Quito,Manabi,Pichincha,15,OTHER_STATE
+"LIQUOR,WINE,BEER",23,46,Ambato,Quito,Tungurahua,Pichincha,8,OTHER_STATE
+"LIQUOR,WINE,BEER",33,18,Quevedo,Quito,Los Rios,Pichincha,10,OTHER_STATE
+"LIQUOR,WINE,BEER",50,18,Ambato,Quito,Tungurahua,Pichincha,7,OTHER_STATE
+"LIQUOR,WINE,BEER",23,18,Ambato,Quito,Tungurahua,Pichincha,4,OTHER_STATE
+MAGAZINES,1,44,Quito,Quito,Pichincha,Pichincha,15,SAME_CITY
+MAGAZINES,6,44,Quito,Quito,Pichincha,Pichincha,13,SAME_CITY
+MAGAZINES,18,44,Quito,Quito,Pichincha,Pichincha,4,SAME_CITY
+MAGAZINES,10,44,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+MAGAZINES,37,44,Cuenca,Quito,Azuay,Pichincha,17,OTHER_STATE
+MAGAZINES,50,44,Ambato,Quito,Tungurahua,Pichincha,16,OTHER_STATE
+MAGAZINES,25,44,Salinas,Quito,Santa Elena,Pichincha,12,OTHER_STATE
+MAGAZINES,23,8,Ambato,Quito,Tungurahua,Pichincha,9,OTHER_STATE
+MAGAZINES,42,8,Cuenca,Quito,Azuay,Pichincha,9,OTHER_STATE
+MAGAZINES,53,8,Manta,Quito,Manabi,Pichincha,8,OTHER_STATE
+MAGAZINES,5,8,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,7,OTHER_STATE
+MAGAZINES,43,8,Esmeraldas,Quito,Esmeraldas,Pichincha,3,OTHER_STATE
+MAGAZINES,28,49,Guayaquil,Quito,Guayas,Pichincha,4,OTHER_STATE
+MAGAZINES,30,49,Guayaquil,Quito,Guayas,Pichincha,4,OTHER_STATE
+MAGAZINES,31,49,Babahoyo,Quito,Los Rios,Pichincha,4,OTHER_STATE
+MAGAZINES,29,49,Guayaquil,Quito,Guayas,Pichincha,3,OTHER_STATE
+MAGAZINES,12,49,Latacunga,Quito,Cotopaxi,Pichincha,2,OTHER_STATE
+MAGAZINES,13,49,Latacunga,Quito,Cotopaxi,Pichincha,2,OTHER_STATE
+MAGAZINES,14,49,Riobamba,Quito,Chimborazo,Pichincha,2,OTHER_STATE
+MAGAZINES,43,49,Esmeraldas,Quito,Esmeraldas,Pichincha,2,OTHER_STATE
+MAGAZINES,54,49,El Carmen,Quito,Manabi,Pichincha,2,OTHER_STATE
+MAGAZINES,25,49,Salinas,Quito,Santa Elena,Pichincha,1,OTHER_STATE
+MEATS,46,44,Quito,Quito,Pichincha,Pichincha,2245,SAME_CITY
+MEATS,20,44,Quito,Quito,Pichincha,Pichincha,1122,SAME_CITY
+MEATS,8,3,Quito,Quito,Pichincha,Pichincha,930,SAME_CITY
+MEATS,1,3,Quito,Quito,Pichincha,Pichincha,723,SAME_CITY
+MEATS,7,3,Quito,Quito,Pichincha,Pichincha,625,SAME_CITY
+MEATS,20,3,Quito,Quito,Pichincha,Pichincha,27,SAME_CITY
+MEATS,18,48,Quito,Quito,Pichincha,Pichincha,124,SAME_CITY
+MEATS,20,48,Quito,Quito,Pichincha,Pichincha,124,SAME_CITY
+MEATS,51,48,Guayaquil,Quito,Guayas,Pichincha,1564,OTHER_STATE
+MEATS,27,48,Daule,Quito,Guayas,Pichincha,371,OTHER_STATE
+MEATS,26,50,Guayaquil,Ambato,Guayas,Tungurahua,1061,OTHER_STATE
+MEATS,41,50,Machala,Ambato,El Oro,Tungurahua,867,OTHER_STATE
+MEATS,28,23,Guayaquil,Ambato,Guayas,Tungurahua,852,OTHER_STATE
+MEATS,27,23,Daule,Ambato,Guayas,Tungurahua,372,OTHER_STATE
+MEATS,42,47,Cuenca,Quito,Azuay,Pichincha,757,OTHER_STATE
+MEATS,25,47,Salinas,Quito,Santa Elena,Pichincha,394,OTHER_STATE
+MEATS,34,6,Guayaquil,Quito,Guayas,Pichincha,676,OTHER_STATE
+MEATS,43,6,Esmeraldas,Quito,Esmeraldas,Pichincha,236,OTHER_STATE
+MEATS,12,14,Latacunga,Riobamba,Cotopaxi,Chimborazo,613,OTHER_STATE
+MEATS,39,14,Cuenca,Riobamba,Azuay,Chimborazo,115,OTHER_STATE
+MEATS,40,17,Machala,Quito,El Oro,Pichincha,545,OTHER_STATE
+MEATS,39,17,Cuenca,Quito,Azuay,Pichincha,162,OTHER_STATE
+MEATS,54,53,El Carmen,Manta,Manabi,Manabi,155,SAME_STATE
+MEATS,35,53,Playas,Manta,Guayas,Manabi,432,OTHER_STATE
+MEATS,29,53,Guayaquil,Manta,Guayas,Manabi,57,OTHER_STATE
+MEATS,27,45,Daule,Quito,Guayas,Pichincha,385,OTHER_STATE
+MEATS,43,45,Esmeraldas,Quito,Esmeraldas,Pichincha,246,OTHER_STATE
+MEATS,24,36,Guayaquil,Libertad,Guayas,Guayas,368,SAME_STATE
+MEATS,29,36,Guayaquil,Libertad,Guayas,Guayas,244,SAME_STATE
+MEATS,25,33,Salinas,Quevedo,Santa Elena,Los Rios,333,OTHER_STATE
+MEATS,39,33,Cuenca,Quevedo,Azuay,Los Rios,236,OTHER_STATE
+MEATS,30,31,Guayaquil,Babahoyo,Guayas,Los Rios,219,OTHER_STATE
+MEATS,13,31,Latacunga,Babahoyo,Cotopaxi,Los Rios,212,OTHER_STATE
+MEATS,32,31,Guayaquil,Babahoyo,Guayas,Los Rios,86,OTHER_STATE
+MEATS,16,19,Santo Domingo,Guaranda,Santo Domingo de los Tsachilas,Bolivar,145,OTHER_STATE
+MEATS,43,19,Esmeraldas,Guaranda,Esmeraldas,Bolivar,139,OTHER_STATE
+MEATS,21,19,Santo Domingo,Guaranda,Santo Domingo de los Tsachilas,Bolivar,132,OTHER_STATE
+MEATS,32,19,Guayaquil,Guaranda,Guayas,Bolivar,81,OTHER_STATE
+MEATS,29,49,Guayaquil,Quito,Guayas,Pichincha,102,OTHER_STATE
+MEATS,41,49,Machala,Quito,El Oro,Pichincha,83,OTHER_STATE
+MEATS,39,49,Cuenca,Quito,Azuay,Pichincha,49,OTHER_STATE
+MEATS,32,49,Guayaquil,Quito,Guayas,Pichincha,38,OTHER_STATE
+PERSONAL CARE,45,46,Quito,Quito,Pichincha,Pichincha,2412,SAME_CITY
+PERSONAL CARE,48,47,Quito,Quito,Pichincha,Pichincha,2018,SAME_CITY
+PERSONAL CARE,6,47,Quito,Quito,Pichincha,Pichincha,65,SAME_CITY
+PERSONAL CARE,6,9,Quito,Quito,Pichincha,Pichincha,1177,SAME_CITY
+PERSONAL CARE,17,9,Quito,Quito,Pichincha,Pichincha,432,SAME_CITY
+PERSONAL CARE,7,44,Quito,Quito,Pichincha,Pichincha,958,SAME_CITY
+PERSONAL CARE,8,44,Quito,Quito,Pichincha,Pichincha,537,SAME_CITY
+PERSONAL CARE,24,28,Guayaquil,Guayaquil,Guayas,Guayas,1165,SAME_CITY
+PERSONAL CARE,51,28,Guayaquil,Guayaquil,Guayas,Guayas,58,SAME_CITY
+PERSONAL CARE,3,4,Quito,Quito,Pichincha,Pichincha,855,SAME_CITY
+PERSONAL CARE,45,4,Quito,Quito,Pichincha,Pichincha,137,SAME_CITY
+PERSONAL CARE,43,14,Esmeraldas,Riobamba,Esmeraldas,Chimborazo,972,OTHER_STATE
+PERSONAL CARE,52,13,Manta,Latacunga,Manabi,Cotopaxi,824,OTHER_STATE
+PERSONAL CARE,45,2,Quito,Quito,Pichincha,Pichincha,674,SAME_CITY
+PERSONAL CARE,20,2,Quito,Quito,Pichincha,Pichincha,137,SAME_CITY
+PERSONAL CARE,34,19,Guayaquil,Guaranda,Guayas,Bolivar,788,OTHER_STATE
+PERSONAL CARE,33,31,Quevedo,Babahoyo,Los Rios,Los Rios,764,SAME_STATE
+PERSONAL CARE,51,31,Guayaquil,Babahoyo,Guayas,Los Rios,16,OTHER_STATE
+PERSONAL CARE,51,12,Guayaquil,Latacunga,Guayas,Cotopaxi,678,OTHER_STATE
+PERSONAL CARE,52,53,Manta,Manta,Manabi,Manabi,318,SAME_CITY
+PERSONAL CARE,54,53,El Carmen,Manta,Manabi,Manabi,234,SAME_STATE
+PERSONAL CARE,17,53,Quito,Manta,Pichincha,Manabi,67,OTHER_STATE
+PERSONAL CARE,17,18,Quito,Quito,Pichincha,Pichincha,482,SAME_CITY
+PERSONAL CARE,20,18,Quito,Quito,Pichincha,Pichincha,41,SAME_CITY
+PERSONAL CARE,36,15,Libertad,Ibarra,Guayas,Imbabura,463,OTHER_STATE
+PERSONAL CARE,16,21,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,408,SAME_CITY
+PERSONAL CARE,51,26,Guayaquil,Guayaquil,Guayas,Guayas,372,SAME_CITY
+PERSONAL CARE,34,26,Guayaquil,Guayaquil,Guayas,Guayas,35,SAME_CITY
+PERSONAL CARE,34,29,Guayaquil,Guayaquil,Guayas,Guayas,285,SAME_CITY
+PERSONAL CARE,32,29,Guayaquil,Guayaquil,Guayas,Guayas,109,SAME_CITY
+PERSONAL CARE,20,1,Quito,Quito,Pichincha,Pichincha,376,SAME_CITY
+PERSONAL CARE,8,10,Quito,Quito,Pichincha,Pichincha,305,SAME_CITY
+PERSONAL CARE,8,49,Quito,Quito,Pichincha,Pichincha,50,SAME_CITY
+PERSONAL CARE,20,49,Quito,Quito,Pichincha,Pichincha,24,SAME_CITY
+PERSONAL CARE,41,49,Machala,Quito,El Oro,Pichincha,207,OTHER_STATE
+PERSONAL CARE,42,37,Cuenca,Cuenca,Azuay,Azuay,256,SAME_CITY
+PERSONAL CARE,38,23,Loja,Ambato,Loja,Tungurahua,210,OTHER_STATE
+PERSONAL CARE,5,50,Santo Domingo,Ambato,Santo Domingo de los Tsachilas,Tungurahua,135,OTHER_STATE
+PERSONAL CARE,35,27,Playas,Daule,Guayas,Guayas,70,SAME_STATE
+PET SUPPLIES,48,46,Quito,Quito,Pichincha,Pichincha,51,SAME_CITY
+PET SUPPLIES,9,46,Quito,Quito,Pichincha,Pichincha,18,SAME_CITY
+PET SUPPLIES,9,8,Quito,Quito,Pichincha,Pichincha,3,SAME_CITY
+PET SUPPLIES,11,8,Cayambe,Quito,Pichincha,Pichincha,7,SAME_STATE
+PET SUPPLIES,51,8,Guayaquil,Quito,Guayas,Pichincha,39,OTHER_STATE
+PET SUPPLIES,43,8,Esmeraldas,Quito,Esmeraldas,Pichincha,5,OTHER_STATE
+PET SUPPLIES,43,49,Esmeraldas,Quito,Esmeraldas,Pichincha,8,OTHER_STATE
+PET SUPPLIES,33,49,Quevedo,Quito,Los Rios,Pichincha,6,OTHER_STATE
+PET SUPPLIES,31,49,Babahoyo,Quito,Los Rios,Pichincha,5,OTHER_STATE
+PET SUPPLIES,12,49,Latacunga,Quito,Cotopaxi,Pichincha,4,OTHER_STATE
+PET SUPPLIES,22,49,Puyo,Quito,Pastaza,Pichincha,4,OTHER_STATE
+PET SUPPLIES,25,49,Salinas,Quito,Santa Elena,Pichincha,4,OTHER_STATE
+PET SUPPLIES,5,49,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,3,OTHER_STATE
+PET SUPPLIES,19,49,Guaranda,Quito,Bolivar,Pichincha,2,OTHER_STATE
+PLAYERS AND ELECTRONICS,44,50,Quito,Ambato,Pichincha,Tungurahua,72,OTHER_STATE
+PLAYERS AND ELECTRONICS,48,8,Quito,Quito,Pichincha,Pichincha,68,SAME_CITY
+PLAYERS AND ELECTRONICS,49,40,Quito,Machala,Pichincha,El Oro,42,OTHER_STATE
+PLAYERS AND ELECTRONICS,44,6,Quito,Quito,Pichincha,Pichincha,34,SAME_CITY
+PLAYERS AND ELECTRONICS,7,47,Quito,Quito,Pichincha,Pichincha,30,SAME_CITY
+PLAYERS AND ELECTRONICS,46,9,Quito,Quito,Pichincha,Pichincha,28,SAME_CITY
+PLAYERS AND ELECTRONICS,48,1,Quito,Quito,Pichincha,Pichincha,24,SAME_CITY
+PLAYERS AND ELECTRONICS,49,3,Quito,Quito,Pichincha,Pichincha,22,SAME_CITY
+PLAYERS AND ELECTRONICS,24,34,Guayaquil,Guayaquil,Guayas,Guayas,16,SAME_CITY
+PLAYERS AND ELECTRONICS,26,34,Guayaquil,Guayaquil,Guayas,Guayas,3,SAME_CITY
+PLAYERS AND ELECTRONICS,12,13,Latacunga,Latacunga,Cotopaxi,Cotopaxi,6,SAME_CITY
+PLAYERS AND ELECTRONICS,52,13,Manta,Latacunga,Manabi,Cotopaxi,11,OTHER_STATE
+PLAYERS AND ELECTRONICS,44,17,Quito,Quito,Pichincha,Pichincha,16,SAME_CITY
+PLAYERS AND ELECTRONICS,7,18,Quito,Quito,Pichincha,Pichincha,14,SAME_CITY
+PLAYERS AND ELECTRONICS,46,18,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+PLAYERS AND ELECTRONICS,35,36,Playas,Libertad,Guayas,Guayas,3,SAME_STATE
+PLAYERS AND ELECTRONICS,26,36,Guayaquil,Libertad,Guayas,Guayas,2,SAME_STATE
+PLAYERS AND ELECTRONICS,32,36,Guayaquil,Libertad,Guayas,Guayas,2,SAME_STATE
+PLAYERS AND ELECTRONICS,52,36,Manta,Libertad,Manabi,Guayas,5,OTHER_STATE
+PLAYERS AND ELECTRONICS,52,25,Manta,Salinas,Manabi,Santa Elena,12,OTHER_STATE
+PLAYERS AND ELECTRONICS,52,30,Manta,Guayaquil,Manabi,Guayas,11,OTHER_STATE
+PLAYERS AND ELECTRONICS,5,16,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,10,SAME_CITY
+PLAYERS AND ELECTRONICS,2,4,Quito,Quito,Pichincha,Pichincha,10,SAME_CITY
+PLAYERS AND ELECTRONICS,38,27,Loja,Daule,Loja,Guayas,9,OTHER_STATE
+PLAYERS AND ELECTRONICS,52,41,Manta,Machala,Manabi,El Oro,9,OTHER_STATE
+PLAYERS AND ELECTRONICS,11,29,Cayambe,Guayaquil,Pichincha,Guayas,8,OTHER_STATE
+PLAYERS AND ELECTRONICS,31,39,Babahoyo,Cuenca,Los Rios,Azuay,7,OTHER_STATE
+PLAYERS AND ELECTRONICS,46,45,Quito,Quito,Pichincha,Pichincha,6,SAME_CITY
+PLAYERS AND ELECTRONICS,11,28,Cayambe,Guayaquil,Pichincha,Guayas,6,OTHER_STATE
+PLAYERS AND ELECTRONICS,38,42,Loja,Cuenca,Loja,Azuay,5,OTHER_STATE
+PLAYERS AND ELECTRONICS,52,51,Manta,Guayaquil,Manabi,Guayas,4,OTHER_STATE
+PLAYERS AND ELECTRONICS,53,23,Manta,Ambato,Manabi,Tungurahua,1,OTHER_STATE
+POULTRY,48,47,Quito,Quito,Pichincha,Pichincha,2590,SAME_CITY
+POULTRY,49,7,Quito,Quito,Pichincha,Pichincha,2464,SAME_CITY
+POULTRY,46,7,Quito,Quito,Pichincha,Pichincha,35,SAME_CITY
+POULTRY,46,3,Quito,Quito,Pichincha,Pichincha,1737,SAME_CITY
+POULTRY,9,3,Quito,Quito,Pichincha,Pichincha,192,SAME_CITY
+POULTRY,6,4,Quito,Quito,Pichincha,Pichincha,1170,SAME_CITY
+POULTRY,51,42,Guayaquil,Cuenca,Guayas,Azuay,910,OTHER_STATE
+POULTRY,9,1,Quito,Quito,Pichincha,Pichincha,888,SAME_CITY
+POULTRY,9,45,Quito,Quito,Pichincha,Pichincha,477,SAME_CITY
+POULTRY,6,45,Quito,Quito,Pichincha,Pichincha,383,SAME_CITY
+POULTRY,10,45,Quito,Quito,Pichincha,Pichincha,6,SAME_CITY
+POULTRY,10,18,Quito,Quito,Pichincha,Pichincha,191,SAME_CITY
+POULTRY,48,18,Quito,Quito,Pichincha,Pichincha,112,SAME_CITY
+POULTRY,51,18,Guayaquil,Quito,Guayas,Pichincha,526,OTHER_STATE
+POULTRY,51,24,Guayaquil,Guayaquil,Guayas,Guayas,816,SAME_CITY
+POULTRY,51,43,Guayaquil,Esmeraldas,Guayas,Esmeraldas,800,OTHER_STATE
+POULTRY,21,5,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,405,SAME_CITY
+POULTRY,16,5,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,58,SAME_CITY
+POULTRY,33,5,Quevedo,Santo Domingo,Los Rios,Santo Domingo de los Tsachilas,300,OTHER_STATE
+POULTRY,33,25,Quevedo,Salinas,Los Rios,Santa Elena,638,OTHER_STATE
+POULTRY,26,25,Guayaquil,Salinas,Guayas,Santa Elena,47,OTHER_STATE
+POULTRY,19,17,Guaranda,Quito,Bolivar,Pichincha,555,OTHER_STATE
+POULTRY,26,17,Guayaquil,Quito,Guayas,Pichincha,99,OTHER_STATE
+POULTRY,13,12,Latacunga,Latacunga,Cotopaxi,Cotopaxi,82,SAME_CITY
+POULTRY,23,12,Ambato,Latacunga,Tungurahua,Cotopaxi,443,OTHER_STATE
+POULTRY,38,31,Loja,Babahoyo,Loja,Los Rios,478,OTHER_STATE
+POULTRY,26,31,Guayaquil,Babahoyo,Guayas,Los Rios,35,OTHER_STATE
+POULTRY,51,20,Guayaquil,Quito,Guayas,Pichincha,408,OTHER_STATE
+POULTRY,26,20,Guayaquil,Quito,Guayas,Pichincha,73,OTHER_STATE
+POULTRY,53,52,Manta,Manta,Manabi,Manabi,350,SAME_CITY
+POULTRY,34,52,Guayaquil,Manta,Guayas,Manabi,123,OTHER_STATE
+POULTRY,30,29,Guayaquil,Guayaquil,Guayas,Guayas,370,SAME_CITY
+POULTRY,26,29,Guayaquil,Guayaquil,Guayas,Guayas,75,SAME_CITY
+POULTRY,40,37,Machala,Cuenca,El Oro,Azuay,282,OTHER_STATE
+POULTRY,34,37,Guayaquil,Cuenca,Guayas,Azuay,105,OTHER_STATE
+POULTRY,26,27,Guayaquil,Daule,Guayas,Guayas,259,SAME_STATE
+POULTRY,34,27,Guayaquil,Daule,Guayas,Guayas,109,SAME_STATE
+POULTRY,34,36,Guayaquil,Libertad,Guayas,Guayas,46,SAME_STATE
+POULTRY,15,36,Ibarra,Libertad,Imbabura,Guayas,191,OTHER_STATE
+POULTRY,23,36,Ambato,Libertad,Tungurahua,Guayas,58,OTHER_STATE
+PREPARED FOODS,46,45,Quito,Quito,Pichincha,Pichincha,507,SAME_CITY
+PREPARED FOODS,47,45,Quito,Quito,Pichincha,Pichincha,453,SAME_CITY
+PREPARED FOODS,44,8,Quito,Quito,Pichincha,Pichincha,359,SAME_CITY
+PREPARED FOODS,48,8,Quito,Quito,Pichincha,Pichincha,108,SAME_CITY
+PREPARED FOODS,3,9,Quito,Quito,Pichincha,Pichincha,272,SAME_CITY
+PREPARED FOODS,20,9,Quito,Quito,Pichincha,Pichincha,39,SAME_CITY
+PREPARED FOODS,52,38,Manta,Loja,Manabi,Loja,295,OTHER_STATE
+PREPARED FOODS,24,28,Guayaquil,Guayaquil,Guayas,Guayas,289,SAME_CITY
+PREPARED FOODS,35,28,Playas,Guayaquil,Guayas,Guayas,2,SAME_STATE
+PREPARED FOODS,48,6,Quito,Quito,Pichincha,Pichincha,202,SAME_CITY
+PREPARED FOODS,18,6,Quito,Quito,Pichincha,Pichincha,71,SAME_CITY
+PREPARED FOODS,35,27,Playas,Daule,Guayas,Guayas,44,SAME_STATE
+PREPARED FOODS,43,27,Esmeraldas,Daule,Esmeraldas,Guayas,210,OTHER_STATE
+PREPARED FOODS,20,49,Quito,Quito,Pichincha,Pichincha,174,SAME_CITY
+PREPARED FOODS,18,49,Quito,Quito,Pichincha,Pichincha,75,SAME_CITY
+PREPARED FOODS,52,41,Manta,Machala,Manabi,El Oro,190,OTHER_STATE
+PREPARED FOODS,14,29,Riobamba,Guayaquil,Chimborazo,Guayas,159,OTHER_STATE
+PREPARED FOODS,5,50,Santo Domingo,Ambato,Santo Domingo de los Tsachilas,Tungurahua,158,OTHER_STATE
+PREPARED FOODS,1,4,Quito,Quito,Pichincha,Pichincha,89,SAME_CITY
+PREPARED FOODS,10,4,Quito,Quito,Pichincha,Pichincha,68,SAME_CITY
+PREPARED FOODS,43,36,Esmeraldas,Libertad,Esmeraldas,Guayas,117,OTHER_STATE
+PREPARED FOODS,53,54,Manta,El Carmen,Manabi,Manabi,70,SAME_STATE
+PREPARED FOODS,52,54,Manta,El Carmen,Manabi,Manabi,17,SAME_STATE
+PREPARED FOODS,11,54,Cayambe,El Carmen,Pichincha,Manabi,28,OTHER_STATE
+PREPARED FOODS,5,16,Santo Domingo,Santo Domingo,Santo Domingo de los Tsachilas,Santo Domingo de los Tsachilas,26,SAME_CITY
+PREPARED FOODS,13,16,Latacunga,Santo Domingo,Cotopaxi,Santo Domingo de los Tsachilas,61,OTHER_STATE
+PREPARED FOODS,15,16,Ibarra,Santo Domingo,Imbabura,Santo Domingo de los Tsachilas,27,OTHER_STATE
+PREPARED FOODS,39,22,Cuenca,Puyo,Azuay,Pastaza,52,OTHER_STATE
+PREPARED FOODS,33,22,Quevedo,Puyo,Los Rios,Pastaza,41,OTHER_STATE
+PREPARED FOODS,14,23,Riobamba,Ambato,Chimborazo,Tungurahua,47,OTHER_STATE
+PREPARED FOODS,11,23,Cayambe,Ambato,Pichincha,Tungurahua,18,OTHER_STATE
+PREPARED FOODS,47,26,Quito,Guayaquil,Pichincha,Guayas,39,OTHER_STATE
+PREPARED FOODS,18,26,Quito,Guayaquil,Pichincha,Guayas,11,OTHER_STATE
+PREPARED FOODS,15,34,Ibarra,Guayaquil,Imbabura,Guayas,26,OTHER_STATE
+PREPARED FOODS,18,34,Quito,Guayaquil,Pichincha,Guayas,20,OTHER_STATE
+PREPARED FOODS,33,31,Quevedo,Babahoyo,Los Rios,Los Rios,8,SAME_STATE
+PREPARED FOODS,11,31,Cayambe,Babahoyo,Pichincha,Los Rios,20,OTHER_STATE
+PREPARED FOODS,43,30,Esmeraldas,Guayaquil,Esmeraldas,Guayas,14,OTHER_STATE
+PREPARED FOODS,18,30,Quito,Guayaquil,Pichincha,Guayas,6,OTHER_STATE
+PREPARED FOODS,11,30,Cayambe,Guayaquil,Pichincha,Guayas,3,OTHER_STATE
+PREPARED FOODS,11,32,Cayambe,Guayaquil,Pichincha,Guayas,2,OTHER_STATE
+PREPARED FOODS,10,32,Quito,Guayaquil,Pichincha,Guayas,1,OTHER_STATE
+PRODUCE,49,44,Quito,Quito,Pichincha,Pichincha,21776,SAME_CITY
+PRODUCE,8,44,Quito,Quito,Pichincha,Pichincha,2045,SAME_CITY
+PRODUCE,8,47,Quito,Quito,Pichincha,Pichincha,9136,SAME_CITY
+PRODUCE,7,3,Quito,Quito,Pichincha,Pichincha,5296,SAME_CITY
+PRODUCE,2,3,Quito,Quito,Pichincha,Pichincha,3735,SAME_CITY
+PRODUCE,51,27,Guayaquil,Daule,Guayas,Guayas,7830,SAME_STATE
+PRODUCE,1,6,Quito,Quito,Pichincha,Pichincha,4715,SAME_CITY
+PRODUCE,9,6,Quito,Quito,Pichincha,Pichincha,2292,SAME_CITY
+PRODUCE,52,38,Manta,Loja,Manabi,Loja,6633,OTHER_STATE
+PRODUCE,9,46,Quito,Quito,Pichincha,Pichincha,2297,SAME_CITY
+PRODUCE,2,46,Quito,Quito,Pichincha,Pichincha,1492,SAME_CITY
+PRODUCE,8,46,Quito,Quito,Pichincha,Pichincha,1028,SAME_CITY
+PRODUCE,11,46,Cayambe,Quito,Pichincha,Pichincha,739,SAME_STATE
+PRODUCE,41,40,Machala,Machala,El Oro,El Oro,4807,SAME_CITY
+PRODUCE,42,5,Cuenca,Santo Domingo,Azuay,Santo Domingo de los Tsachilas,3653,OTHER_STATE
+PRODUCE,11,48,Cayambe,Quito,Pichincha,Pichincha,3190,SAME_STATE
+PRODUCE,52,25,Manta,Salinas,Manabi,Santa Elena,2841,OTHER_STATE
+PRODUCE,52,21,Manta,Santo Domingo,Manabi,Santo Domingo de los Tsachilas,2474,OTHER_STATE
+PRODUCE,28,30,Guayaquil,Guayaquil,Guayas,Guayas,2137,SAME_CITY
+PRODUCE,11,20,Cayambe,Quito,Pichincha,Pichincha,1639,SAME_STATE
+PRODUCE,39,20,Cuenca,Quito,Azuay,Pichincha,185,OTHER_STATE
+PRODUCE,50,23,Ambato,Ambato,Tungurahua,Tungurahua,1724,SAME_CITY
+PRODUCE,29,35,Guayaquil,Playas,Guayas,Guayas,1320,SAME_STATE
+PRODUCE,42,18,Cuenca,Quito,Azuay,Pichincha,813,OTHER_STATE
+PRODUCE,29,32,Guayaquil,Guayaquil,Guayas,Guayas,679,SAME_CITY
+PRODUCE,39,16,Cuenca,Santo Domingo,Azuay,Santo Domingo de los Tsachilas,628,OTHER_STATE
+PRODUCE,12,13,Latacunga,Latacunga,Cotopaxi,Cotopaxi,437,SAME_CITY
+PRODUCE,53,54,Manta,El Carmen,Manabi,Manabi,177,SAME_STATE
+PRODUCE,51,26,Guayaquil,Guayaquil,Guayas,Guayas,139,SAME_CITY
+SCHOOL AND OFFICE SUPPLIES,44,46,Quito,Quito,Pichincha,Pichincha,671,SAME_CITY
+SCHOOL AND OFFICE SUPPLIES,9,46,Quito,Quito,Pichincha,Pichincha,198,SAME_CITY
+SCHOOL AND OFFICE SUPPLIES,9,45,Quito,Quito,Pichincha,Pichincha,192,SAME_CITY
+SCHOOL AND OFFICE SUPPLIES,1,45,Quito,Quito,Pichincha,Pichincha,2,SAME_CITY
+SCHOOL AND OFFICE SUPPLIES,50,45,Ambato,Quito,Tungurahua,Pichincha,647,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,50,47,Ambato,Quito,Tungurahua,Pichincha,328,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,13,47,Latacunga,Quito,Cotopaxi,Pichincha,136,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,39,47,Cuenca,Quito,Azuay,Pichincha,16,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,51,47,Guayaquil,Quito,Guayas,Pichincha,15,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,42,47,Cuenca,Quito,Azuay,Pichincha,7,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,41,47,Machala,Quito,El Oro,Pichincha,5,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,29,47,Guayaquil,Quito,Guayas,Pichincha,4,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,34,47,Guayaquil,Quito,Guayas,Pichincha,4,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,21,47,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,3,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,40,47,Machala,Quito,El Oro,Pichincha,3,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,16,47,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,2,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,23,47,Ambato,Quito,Tungurahua,Pichincha,2,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,26,47,Guayaquil,Quito,Guayas,Pichincha,2,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,27,47,Daule,Quito,Guayas,Pichincha,2,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,28,47,Guayaquil,Quito,Guayas,Pichincha,2,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,25,47,Salinas,Quito,Santa Elena,Pichincha,1,OTHER_STATE
+SCHOOL AND OFFICE SUPPLIES,33,47,Quevedo,Quito,Los Rios,Pichincha,1,OTHER_STATE
+SEAFOOD,46,49,Quito,Quito,Pichincha,Pichincha,191,SAME_CITY
+SEAFOOD,6,49,Quito,Quito,Pichincha,Pichincha,114,SAME_CITY
+SEAFOOD,45,49,Quito,Quito,Pichincha,Pichincha,58,SAME_CITY
+SEAFOOD,44,3,Quito,Quito,Pichincha,Pichincha,88,SAME_CITY
+SEAFOOD,4,3,Quito,Quito,Pichincha,Pichincha,73,SAME_CITY
+SEAFOOD,9,3,Quito,Quito,Pichincha,Pichincha,58,SAME_CITY
+SEAFOOD,45,3,Quito,Quito,Pichincha,Pichincha,45,SAME_CITY
+SEAFOOD,51,3,Guayaquil,Quito,Guayas,Pichincha,12,OTHER_STATE
+SEAFOOD,51,47,Guayaquil,Quito,Guayas,Pichincha,92,OTHER_STATE
+SEAFOOD,50,47,Ambato,Quito,Tungurahua,Pichincha,46,OTHER_STATE
+SEAFOOD,52,47,Manta,Quito,Manabi,Pichincha,24,OTHER_STATE
+SEAFOOD,31,47,Babahoyo,Quito,Los Rios,Pichincha,18,OTHER_STATE
+SEAFOOD,38,47,Loja,Quito,Loja,Pichincha,13,OTHER_STATE
+SEAFOOD,40,47,Machala,Quito,El Oro,Pichincha,12,OTHER_STATE
+SEAFOOD,29,47,Guayaquil,Quito,Guayas,Pichincha,9,OTHER_STATE
+SEAFOOD,43,47,Esmeraldas,Quito,Esmeraldas,Pichincha,7,OTHER_STATE
+SEAFOOD,16,47,Santo Domingo,Quito,Santo Domingo de los Tsachilas,Pichincha,4,OTHER_STATE
+SEAFOOD,30,47,Guayaquil,Quito,Guayas,Pichincha,1,OTHER_STATE
+SEAFOOD,15,7,Ibarra,Quito,Imbabura,Pichincha,3,OTHER_STATE
+SEAFOOD,25,7,Salinas,Quito,Santa Elena,Pichincha,3,OTHER_STATE
+SEAFOOD,30,7,Guayaquil,Quito,Guayas,Pichincha,3,OTHER_STATE
+SEAFOOD,19,7,Guaranda,Quito,Bolivar,Pichincha,2,OTHER_STATE
+SEAFOOD,54,7,El Carmen,Quito,Manabi,Pichincha,2,OTHER_STATE
+SEAFOOD,26,7,Guayaquil,Quito,Guayas,Pichincha,1,OTHER_STATE

@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+huggingface-hub
+jupyter
+streamlit
+plotly
+joblib
